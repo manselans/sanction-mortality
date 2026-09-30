@@ -1,0 +1,5409 @@
+audd,level_code,level_name
+0,90,Not elsewhere classified
+1,10,Primary
+2,90,Not elsewhere classified
+141,50,Short cycle tertiary
+144,50,Short cycle tertiary
+145,50,Short cycle tertiary
+146,50,Short cycle tertiary
+148,50,Short cycle tertiary
+150,60,Bachelor or equivalent
+151,60,Bachelor or equivalent
+152,60,Bachelor or equivalent
+153,60,Bachelor or equivalent
+154,60,Bachelor or equivalent
+155,60,Bachelor or equivalent
+156,60,Bachelor or equivalent
+159,60,Bachelor or equivalent
+161,60,Bachelor or equivalent
+162,60,Bachelor or equivalent
+163,60,Bachelor or equivalent
+164,60,Bachelor or equivalent
+165,60,Bachelor or equivalent
+167,60,Bachelor or equivalent
+170,70,Master or equivalent
+171,70,Master or equivalent
+172,70,Master or equivalent
+173,70,Master or equivalent
+174,70,Master or equivalent
+175,70,Master or equivalent
+176,70,Master or equivalent
+177,70,Master or equivalent
+179,70,Master or equivalent
+200,10,Primary
+205,20,Lower secondary
+210,20,Lower secondary
+215,30,Upper secondary
+220,30,Upper secondary
+239,30,Upper secondary
+253,30,Upper secondary
+254,30,Upper secondary
+255,30,Upper secondary
+258,30,Upper secondary
+260,30,Upper secondary
+275,30,Upper secondary
+280,30,Upper secondary
+285,30,Upper secondary
+290,30,Upper secondary
+299,30,Upper secondary
+300,30,Upper secondary
+320,30,Upper secondary
+339,30,Upper secondary
+353,30,Upper secondary
+354,30,Upper secondary
+355,30,Upper secondary
+358,30,Upper secondary
+360,30,Upper secondary
+375,30,Upper secondary
+380,30,Upper secondary
+385,30,Upper secondary
+390,30,Upper secondary
+400,50,Short cycle tertiary
+425,50,Short cycle tertiary
+430,50,Short cycle tertiary
+439,50,Short cycle tertiary
+459,50,Short cycle tertiary
+475,50,Short cycle tertiary
+480,50,Short cycle tertiary
+485,50,Short cycle tertiary
+490,50,Short cycle tertiary
+495,50,Short cycle tertiary
+500,60,Bachelor or equivalent
+520,60,Bachelor or equivalent
+525,60,Bachelor or equivalent
+530,60,Bachelor or equivalent
+539,60,Bachelor or equivalent
+545,60,Bachelor or equivalent
+559,60,Bachelor or equivalent
+575,60,Bachelor or equivalent
+580,60,Bachelor or equivalent
+585,60,Bachelor or equivalent
+590,60,Bachelor or equivalent
+595,60,Bachelor or equivalent
+600,70,Master or equivalent
+620,70,Master or equivalent
+625,70,Master or equivalent
+630,70,Master or equivalent
+639,70,Master or equivalent
+645,70,Master or equivalent
+659,70,Master or equivalent
+675,70,Master or equivalent
+680,70,Master or equivalent
+690,70,Master or equivalent
+695,70,Master or equivalent
+700,60,Bachelor or equivalent
+702,60,Bachelor or equivalent
+703,60,Bachelor or equivalent
+704,60,Bachelor or equivalent
+705,60,Bachelor or equivalent
+706,60,Bachelor or equivalent
+707,60,Bachelor or equivalent
+708,60,Bachelor or equivalent
+709,60,Bachelor or equivalent
+720,80,Doctoral or equivalent
+721,80,Doctoral or equivalent
+722,80,Doctoral or equivalent
+723,80,Doctoral or equivalent
+724,80,Doctoral or equivalent
+725,80,Doctoral or equivalent
+726,80,Doctoral or equivalent
+728,80,Doctoral or equivalent
+729,80,Doctoral or equivalent
+800,50,Short cycle tertiary
+802,60,Bachelor or equivalent
+803,50,Short cycle tertiary
+805,30,Upper secondary
+806,50,Short cycle tertiary
+807,50,Short cycle tertiary
+810,60,Bachelor or equivalent
+811,50,Short cycle tertiary
+812,30,Upper secondary
+815,60,Bachelor or equivalent
+816,60,Bachelor or equivalent
+820,30,Upper secondary
+825,30,Upper secondary
+835,50,Short cycle tertiary
+840,60,Bachelor or equivalent
+845,60,Bachelor or equivalent
+850,30,Upper secondary
+990,70,Master or equivalent
+1006,10,Primary
+1007,20,Lower secondary
+1008,20,Lower secondary
+1009,20,Lower secondary
+1010,20,Lower secondary
+1011,20,Lower secondary
+1021,20,Lower secondary
+1022,20,Lower secondary
+1023,20,Lower secondary
+1031,30,Upper secondary
+1032,30,Upper secondary
+1040,30,Upper secondary
+1041,30,Upper secondary
+1042,30,Upper secondary
+1049,30,Upper secondary
+1051,30,Upper secondary
+1052,30,Upper secondary
+1061,30,Upper secondary
+1062,30,Upper secondary
+1064,30,Upper secondary
+1069,30,Upper secondary
+1070,30,Upper secondary
+1071,30,Upper secondary
+1072,30,Upper secondary
+1073,30,Upper secondary
+1080,30,Upper secondary
+1081,30,Upper secondary
+1082,30,Upper secondary
+1083,30,Upper secondary
+1084,30,Upper secondary
+1090,90,Not elsewhere classified
+1095,90,Not elsewhere classified
+1097,30,Upper secondary
+1098,30,Upper secondary
+1099,90,Not elsewhere classified
+1100,10,Primary
+1101,10,Primary
+1102,10,Primary
+1103,10,Primary
+1104,10,Primary
+1105,10,Primary
+1106,10,Primary
+1107,20,Lower secondary
+1108,20,Lower secondary
+1109,20,Lower secondary
+1110,20,Lower secondary
+1111,20,Lower secondary
+1120,10,Primary
+1121,20,Lower secondary
+1122,20,Lower secondary
+1123,20,Lower secondary
+1140,30,Upper secondary
+1141,30,Upper secondary
+1142,30,Upper secondary
+1143,30,Upper secondary
+1144,30,Upper secondary
+1145,30,Upper secondary
+1146,30,Upper secondary
+1149,30,Upper secondary
+1151,30,Upper secondary
+1152,30,Upper secondary
+1153,30,Upper secondary
+1154,30,Upper secondary
+1155,30,Upper secondary
+1161,30,Upper secondary
+1162,30,Upper secondary
+1163,30,Upper secondary
+1164,30,Upper secondary
+1165,30,Upper secondary
+1169,30,Upper secondary
+1171,30,Upper secondary
+1172,30,Upper secondary
+1173,30,Upper secondary
+1174,30,Upper secondary
+1175,30,Upper secondary
+1179,30,Upper secondary
+1181,30,Upper secondary
+1182,30,Upper secondary
+1183,30,Upper secondary
+1184,30,Upper secondary
+1185,30,Upper secondary
+1189,30,Upper secondary
+1190,30,Upper secondary
+1195,30,Upper secondary
+1196,30,Upper secondary
+1197,30,Upper secondary
+1198,30,Upper secondary
+1199,30,Upper secondary
+1206,10,Primary
+1207,20,Lower secondary
+1208,20,Lower secondary
+1209,20,Lower secondary
+1210,20,Lower secondary
+1301,20,Lower secondary
+1302,20,Lower secondary
+1303,20,Lower secondary
+1304,30,Upper secondary
+1305,20,Lower secondary
+1351,20,Lower secondary
+1352,20,Lower secondary
+1353,20,Lower secondary
+1354,20,Lower secondary
+1355,20,Lower secondary
+1356,20,Lower secondary
+1357,20,Lower secondary
+1359,20,Lower secondary
+1365,30,Upper secondary
+1410,20,Lower secondary
+1423,20,Lower secondary
+1509,20,Lower secondary
+1510,20,Lower secondary
+1511,30,Upper secondary
+1522,20,Lower secondary
+1523,20,Lower secondary
+1531,30,Upper secondary
+1532,30,Upper secondary
+1533,30,Upper secondary
+1535,30,Upper secondary
+1536,30,Upper secondary
+1537,30,Upper secondary
+1539,30,Upper secondary
+1540,30,Upper secondary
+1541,30,Upper secondary
+1542,30,Upper secondary
+1543,30,Upper secondary
+1549,30,Upper secondary
+1551,30,Upper secondary
+1552,30,Upper secondary
+1553,30,Upper secondary
+1555,30,Upper secondary
+1559,30,Upper secondary
+1561,30,Upper secondary
+1562,30,Upper secondary
+1563,30,Upper secondary
+1565,30,Upper secondary
+1569,30,Upper secondary
+1650,30,Upper secondary
+1651,30,Upper secondary
+1652,30,Upper secondary
+1671,30,Upper secondary
+1672,30,Upper secondary
+1673,30,Upper secondary
+1679,30,Upper secondary
+1681,30,Upper secondary
+1682,30,Upper secondary
+1683,30,Upper secondary
+1689,30,Upper secondary
+1721,20,Lower secondary
+1722,20,Lower secondary
+1723,20,Lower secondary
+1879,30,Upper secondary
+1881,30,Upper secondary
+1882,30,Upper secondary
+1883,30,Upper secondary
+1889,30,Upper secondary
+1891,30,Upper secondary
+1892,30,Upper secondary
+1893,30,Upper secondary
+1896,30,Upper secondary
+1897,30,Upper secondary
+1898,30,Upper secondary
+1899,30,Upper secondary
+1901,20,Lower secondary
+1983,5,Early childhood education
+1984,5,Early childhood education
+1985,5,Early childhood education
+2003,30,Upper secondary
+2005,30,Upper secondary
+2007,30,Upper secondary
+2008,30,Upper secondary
+2009,30,Upper secondary
+2010,30,Upper secondary
+2015,30,Upper secondary
+2016,30,Upper secondary
+2017,30,Upper secondary
+2018,30,Upper secondary
+2019,30,Upper secondary
+2021,30,Upper secondary
+2022,30,Upper secondary
+2027,30,Upper secondary
+2028,30,Upper secondary
+2029,60,Bachelor or equivalent
+2401,20,Lower secondary
+2411,20,Lower secondary
+2413,20,Lower secondary
+2414,50,Short cycle tertiary
+2415,20,Lower secondary
+2417,20,Lower secondary
+2419,30,Upper secondary
+2421,20,Lower secondary
+2425,30,Upper secondary
+2428,20,Lower secondary
+2431,20,Lower secondary
+2432,20,Lower secondary
+2441,20,Lower secondary
+2442,20,Lower secondary
+2443,20,Lower secondary
+2444,20,Lower secondary
+2445,20,Lower secondary
+2446,20,Lower secondary
+2447,20,Lower secondary
+2459,30,Upper secondary
+2460,30,Upper secondary
+2461,30,Upper secondary
+2462,30,Upper secondary
+2463,50,Short cycle tertiary
+2464,50,Short cycle tertiary
+2465,50,Short cycle tertiary
+2466,50,Short cycle tertiary
+2467,50,Short cycle tertiary
+2468,50,Short cycle tertiary
+2469,30,Upper secondary
+2470,30,Upper secondary
+2471,30,Upper secondary
+2472,20,Lower secondary
+2473,30,Upper secondary
+2475,50,Short cycle tertiary
+2476,30,Upper secondary
+2477,30,Upper secondary
+2478,30,Upper secondary
+2479,30,Upper secondary
+2480,30,Upper secondary
+2481,30,Upper secondary
+2483,30,Upper secondary
+2484,30,Upper secondary
+2485,30,Upper secondary
+2486,30,Upper secondary
+2487,30,Upper secondary
+2488,30,Upper secondary
+2489,30,Upper secondary
+2490,30,Upper secondary
+2491,30,Upper secondary
+2492,30,Upper secondary
+2493,30,Upper secondary
+2494,30,Upper secondary
+2495,30,Upper secondary
+2508,20,Lower secondary
+2509,20,Lower secondary
+2510,20,Lower secondary
+2511,20,Lower secondary
+2530,30,Upper secondary
+2887,30,Upper secondary
+2888,30,Upper secondary
+2891,30,Upper secondary
+2893,30,Upper secondary
+2894,30,Upper secondary
+2895,30,Upper secondary
+2900,30,Upper secondary
+2901,30,Upper secondary
+2902,30,Upper secondary
+2903,30,Upper secondary
+2904,30,Upper secondary
+2905,30,Upper secondary
+2906,30,Upper secondary
+2907,30,Upper secondary
+2908,30,Upper secondary
+2909,30,Upper secondary
+2910,30,Upper secondary
+2911,30,Upper secondary
+2912,30,Upper secondary
+2913,30,Upper secondary
+2914,30,Upper secondary
+2915,30,Upper secondary
+2916,30,Upper secondary
+2917,30,Upper secondary
+2918,30,Upper secondary
+2919,30,Upper secondary
+2920,30,Upper secondary
+2921,30,Upper secondary
+2922,30,Upper secondary
+2923,30,Upper secondary
+2924,30,Upper secondary
+2925,30,Upper secondary
+2926,30,Upper secondary
+2950,30,Upper secondary
+2951,30,Upper secondary
+2952,30,Upper secondary
+2953,30,Upper secondary
+2954,30,Upper secondary
+2955,30,Upper secondary
+2956,30,Upper secondary
+2957,30,Upper secondary
+2958,30,Upper secondary
+2959,30,Upper secondary
+2960,30,Upper secondary
+2961,30,Upper secondary
+2962,30,Upper secondary
+2969,30,Upper secondary
+2970,30,Upper secondary
+2971,30,Upper secondary
+2972,30,Upper secondary
+2973,30,Upper secondary
+2974,30,Upper secondary
+2975,30,Upper secondary
+2976,30,Upper secondary
+2977,30,Upper secondary
+2978,30,Upper secondary
+2979,30,Upper secondary
+2980,30,Upper secondary
+2981,30,Upper secondary
+2982,30,Upper secondary
+2983,30,Upper secondary
+2984,30,Upper secondary
+2985,30,Upper secondary
+2986,30,Upper secondary
+2990,30,Upper secondary
+2991,30,Upper secondary
+2992,30,Upper secondary
+3000,70,Master or equivalent
+3001,70,Master or equivalent
+3002,70,Master or equivalent
+3003,70,Master or equivalent
+3004,70,Master or equivalent
+3005,70,Master or equivalent
+3006,60,Bachelor or equivalent
+3007,60,Bachelor or equivalent
+3008,60,Bachelor or equivalent
+3009,60,Bachelor or equivalent
+3010,60,Bachelor or equivalent
+3011,60,Bachelor or equivalent
+3012,60,Bachelor or equivalent
+3013,60,Bachelor or equivalent
+3014,60,Bachelor or equivalent
+3015,60,Bachelor or equivalent
+3016,60,Bachelor or equivalent
+3017,60,Bachelor or equivalent
+3018,60,Bachelor or equivalent
+3019,60,Bachelor or equivalent
+3020,70,Master or equivalent
+3021,70,Master or equivalent
+3022,60,Bachelor or equivalent
+3023,60,Bachelor or equivalent
+3024,70,Master or equivalent
+3025,60,Bachelor or equivalent
+3026,60,Bachelor or equivalent
+3027,60,Bachelor or equivalent
+3028,70,Master or equivalent
+3029,70,Master or equivalent
+3030,70,Master or equivalent
+3031,70,Master or equivalent
+3032,60,Bachelor or equivalent
+3033,70,Master or equivalent
+3034,60,Bachelor or equivalent
+3035,70,Master or equivalent
+3036,60,Bachelor or equivalent
+3037,60,Bachelor or equivalent
+3038,60,Bachelor or equivalent
+3039,60,Bachelor or equivalent
+3040,70,Master or equivalent
+3041,60,Bachelor or equivalent
+3042,70,Master or equivalent
+3043,60,Bachelor or equivalent
+3044,30,Upper secondary
+3045,60,Bachelor or equivalent
+3046,70,Master or equivalent
+3047,70,Master or equivalent
+3048,70,Master or equivalent
+3049,70,Master or equivalent
+3050,70,Master or equivalent
+3051,70,Master or equivalent
+3052,70,Master or equivalent
+3053,60,Bachelor or equivalent
+3054,70,Master or equivalent
+3055,60,Bachelor or equivalent
+3056,60,Bachelor or equivalent
+3057,70,Master or equivalent
+3058,70,Master or equivalent
+3059,70,Master or equivalent
+3060,70,Master or equivalent
+3061,70,Master or equivalent
+3062,60,Bachelor or equivalent
+3063,70,Master or equivalent
+3064,60,Bachelor or equivalent
+3065,60,Bachelor or equivalent
+3066,60,Bachelor or equivalent
+3067,70,Master or equivalent
+3068,60,Bachelor or equivalent
+3069,70,Master or equivalent
+3070,70,Master or equivalent
+3071,60,Bachelor or equivalent
+3072,60,Bachelor or equivalent
+3073,60,Bachelor or equivalent
+3074,60,Bachelor or equivalent
+3075,70,Master or equivalent
+3076,70,Master or equivalent
+3077,70,Master or equivalent
+3078,70,Master or equivalent
+3079,70,Master or equivalent
+3080,60,Bachelor or equivalent
+3081,70,Master or equivalent
+3082,70,Master or equivalent
+3083,60,Bachelor or equivalent
+3084,60,Bachelor or equivalent
+3085,70,Master or equivalent
+3086,70,Master or equivalent
+3087,60,Bachelor or equivalent
+3088,60,Bachelor or equivalent
+3089,60,Bachelor or equivalent
+3090,60,Bachelor or equivalent
+3091,70,Master or equivalent
+3092,70,Master or equivalent
+3093,70,Master or equivalent
+3094,60,Bachelor or equivalent
+3095,70,Master or equivalent
+3096,70,Master or equivalent
+3097,60,Bachelor or equivalent
+3098,70,Master or equivalent
+3099,70,Master or equivalent
+3100,60,Bachelor or equivalent
+3101,70,Master or equivalent
+3102,70,Master or equivalent
+3103,70,Master or equivalent
+3104,70,Master or equivalent
+3105,60,Bachelor or equivalent
+3106,70,Master or equivalent
+3107,70,Master or equivalent
+3108,70,Master or equivalent
+3109,70,Master or equivalent
+3110,70,Master or equivalent
+3111,70,Master or equivalent
+3112,70,Master or equivalent
+3113,70,Master or equivalent
+3114,70,Master or equivalent
+3115,70,Master or equivalent
+3116,60,Bachelor or equivalent
+3117,70,Master or equivalent
+3118,70,Master or equivalent
+3119,70,Master or equivalent
+3120,70,Master or equivalent
+3121,60,Bachelor or equivalent
+3122,60,Bachelor or equivalent
+3123,70,Master or equivalent
+3124,60,Bachelor or equivalent
+3125,70,Master or equivalent
+3126,70,Master or equivalent
+3127,70,Master or equivalent
+3128,70,Master or equivalent
+3129,70,Master or equivalent
+3130,70,Master or equivalent
+3131,70,Master or equivalent
+3132,70,Master or equivalent
+3133,70,Master or equivalent
+3134,70,Master or equivalent
+3135,30,Upper secondary
+3136,70,Master or equivalent
+3137,70,Master or equivalent
+3138,70,Master or equivalent
+3139,70,Master or equivalent
+3140,70,Master or equivalent
+3141,70,Master or equivalent
+3142,70,Master or equivalent
+3143,70,Master or equivalent
+3144,70,Master or equivalent
+3145,70,Master or equivalent
+3146,70,Master or equivalent
+3147,70,Master or equivalent
+3148,60,Bachelor or equivalent
+3149,70,Master or equivalent
+3150,70,Master or equivalent
+3151,70,Master or equivalent
+3152,70,Master or equivalent
+3153,70,Master or equivalent
+3154,60,Bachelor or equivalent
+3155,70,Master or equivalent
+3156,70,Master or equivalent
+3157,70,Master or equivalent
+3158,70,Master or equivalent
+3159,30,Upper secondary
+3160,70,Master or equivalent
+3161,70,Master or equivalent
+3162,60,Bachelor or equivalent
+3163,70,Master or equivalent
+3164,70,Master or equivalent
+3165,70,Master or equivalent
+3166,60,Bachelor or equivalent
+3167,70,Master or equivalent
+3168,70,Master or equivalent
+3169,70,Master or equivalent
+3170,70,Master or equivalent
+3171,60,Bachelor or equivalent
+3172,60,Bachelor or equivalent
+3173,70,Master or equivalent
+3174,70,Master or equivalent
+3175,30,Upper secondary
+3176,70,Master or equivalent
+3177,60,Bachelor or equivalent
+3178,60,Bachelor or equivalent
+3179,60,Bachelor or equivalent
+3180,60,Bachelor or equivalent
+3181,30,Upper secondary
+3182,60,Bachelor or equivalent
+3183,60,Bachelor or equivalent
+3184,60,Bachelor or equivalent
+3185,60,Bachelor or equivalent
+3186,60,Bachelor or equivalent
+3187,60,Bachelor or equivalent
+3188,50,Short cycle tertiary
+3189,60,Bachelor or equivalent
+3190,60,Bachelor or equivalent
+3191,60,Bachelor or equivalent
+3192,60,Bachelor or equivalent
+3193,60,Bachelor or equivalent
+3194,60,Bachelor or equivalent
+3195,60,Bachelor or equivalent
+3196,60,Bachelor or equivalent
+3197,60,Bachelor or equivalent
+3198,60,Bachelor or equivalent
+3199,60,Bachelor or equivalent
+3200,60,Bachelor or equivalent
+3201,60,Bachelor or equivalent
+3202,60,Bachelor or equivalent
+3203,60,Bachelor or equivalent
+3204,60,Bachelor or equivalent
+3205,60,Bachelor or equivalent
+3206,60,Bachelor or equivalent
+3207,70,Master or equivalent
+3208,50,Short cycle tertiary
+3209,60,Bachelor or equivalent
+3210,50,Short cycle tertiary
+3211,60,Bachelor or equivalent
+3212,60,Bachelor or equivalent
+3213,70,Master or equivalent
+3214,70,Master or equivalent
+3215,70,Master or equivalent
+3216,70,Master or equivalent
+3217,60,Bachelor or equivalent
+3219,60,Bachelor or equivalent
+3220,60,Bachelor or equivalent
+3221,60,Bachelor or equivalent
+3222,70,Master or equivalent
+3223,60,Bachelor or equivalent
+3224,70,Master or equivalent
+3225,30,Upper secondary
+3226,30,Upper secondary
+3227,30,Upper secondary
+3228,30,Upper secondary
+3229,30,Upper secondary
+3230,60,Bachelor or equivalent
+3231,30,Upper secondary
+3232,30,Upper secondary
+3233,30,Upper secondary
+3234,30,Upper secondary
+3235,30,Upper secondary
+3236,30,Upper secondary
+3237,30,Upper secondary
+3238,30,Upper secondary
+3239,30,Upper secondary
+3240,30,Upper secondary
+3241,30,Upper secondary
+3242,30,Upper secondary
+3243,30,Upper secondary
+3244,30,Upper secondary
+3245,30,Upper secondary
+3246,30,Upper secondary
+3247,30,Upper secondary
+3248,30,Upper secondary
+3249,30,Upper secondary
+3250,30,Upper secondary
+3251,30,Upper secondary
+3252,30,Upper secondary
+3253,30,Upper secondary
+3254,30,Upper secondary
+3255,30,Upper secondary
+3256,30,Upper secondary
+3257,30,Upper secondary
+3258,30,Upper secondary
+3259,30,Upper secondary
+3260,30,Upper secondary
+3261,60,Bachelor or equivalent
+3262,30,Upper secondary
+3263,30,Upper secondary
+3264,30,Upper secondary
+3265,30,Upper secondary
+3266,30,Upper secondary
+3267,30,Upper secondary
+3268,30,Upper secondary
+3269,30,Upper secondary
+3270,30,Upper secondary
+3271,30,Upper secondary
+3272,60,Bachelor or equivalent
+3273,70,Master or equivalent
+3274,60,Bachelor or equivalent
+3275,30,Upper secondary
+3276,60,Bachelor or equivalent
+3277,60,Bachelor or equivalent
+3278,60,Bachelor or equivalent
+3279,60,Bachelor or equivalent
+3280,60,Bachelor or equivalent
+3281,30,Upper secondary
+3282,60,Bachelor or equivalent
+3283,60,Bachelor or equivalent
+3284,60,Bachelor or equivalent
+3285,30,Upper secondary
+3286,60,Bachelor or equivalent
+3287,30,Upper secondary
+3288,60,Bachelor or equivalent
+3289,60,Bachelor or equivalent
+3290,60,Bachelor or equivalent
+3291,30,Upper secondary
+3292,30,Upper secondary
+3293,30,Upper secondary
+3294,30,Upper secondary
+3295,30,Upper secondary
+3296,30,Upper secondary
+3297,30,Upper secondary
+3298,30,Upper secondary
+3299,30,Upper secondary
+3300,30,Upper secondary
+3301,30,Upper secondary
+3302,30,Upper secondary
+3303,30,Upper secondary
+3304,60,Bachelor or equivalent
+3305,50,Short cycle tertiary
+3306,50,Short cycle tertiary
+3307,70,Master or equivalent
+3308,70,Master or equivalent
+3309,70,Master or equivalent
+3310,70,Master or equivalent
+3311,70,Master or equivalent
+3312,70,Master or equivalent
+3313,70,Master or equivalent
+3314,70,Master or equivalent
+3315,70,Master or equivalent
+3316,60,Bachelor or equivalent
+3317,70,Master or equivalent
+3318,70,Master or equivalent
+3319,20,Lower secondary
+3320,50,Short cycle tertiary
+3321,60,Bachelor or equivalent
+3322,60,Bachelor or equivalent
+3323,30,Upper secondary
+3324,30,Upper secondary
+3325,30,Upper secondary
+3326,70,Master or equivalent
+3327,60,Bachelor or equivalent
+3328,60,Bachelor or equivalent
+3329,60,Bachelor or equivalent
+3330,70,Master or equivalent
+3331,70,Master or equivalent
+3332,70,Master or equivalent
+3333,60,Bachelor or equivalent
+3334,70,Master or equivalent
+3335,60,Bachelor or equivalent
+3336,70,Master or equivalent
+3337,70,Master or equivalent
+3338,30,Upper secondary
+3339,60,Bachelor or equivalent
+3340,70,Master or equivalent
+3341,70,Master or equivalent
+3342,60,Bachelor or equivalent
+3343,60,Bachelor or equivalent
+3344,70,Master or equivalent
+3345,70,Master or equivalent
+3346,60,Bachelor or equivalent
+3347,70,Master or equivalent
+3348,70,Master or equivalent
+3349,70,Master or equivalent
+3350,50,Short cycle tertiary
+3351,50,Short cycle tertiary
+3352,50,Short cycle tertiary
+3353,60,Bachelor or equivalent
+3354,70,Master or equivalent
+3355,60,Bachelor or equivalent
+3356,60,Bachelor or equivalent
+3357,60,Bachelor or equivalent
+3358,60,Bachelor or equivalent
+3359,60,Bachelor or equivalent
+3360,60,Bachelor or equivalent
+3361,60,Bachelor or equivalent
+3362,60,Bachelor or equivalent
+3363,70,Master or equivalent
+3364,30,Upper secondary
+3365,30,Upper secondary
+3366,70,Master or equivalent
+3367,70,Master or equivalent
+3368,60,Bachelor or equivalent
+3369,60,Bachelor or equivalent
+3370,60,Bachelor or equivalent
+3371,60,Bachelor or equivalent
+3372,70,Master or equivalent
+3373,60,Bachelor or equivalent
+3374,70,Master or equivalent
+3375,70,Master or equivalent
+3376,60,Bachelor or equivalent
+3377,70,Master or equivalent
+3378,70,Master or equivalent
+3379,60,Bachelor or equivalent
+3380,70,Master or equivalent
+3381,70,Master or equivalent
+3382,70,Master or equivalent
+3383,60,Bachelor or equivalent
+3384,60,Bachelor or equivalent
+3385,70,Master or equivalent
+3386,70,Master or equivalent
+3387,60,Bachelor or equivalent
+3388,60,Bachelor or equivalent
+3389,70,Master or equivalent
+3390,70,Master or equivalent
+3391,70,Master or equivalent
+3392,70,Master or equivalent
+3393,70,Master or equivalent
+3394,70,Master or equivalent
+3395,70,Master or equivalent
+3396,70,Master or equivalent
+3397,70,Master or equivalent
+3398,70,Master or equivalent
+3399,70,Master or equivalent
+3400,60,Bachelor or equivalent
+3401,30,Upper secondary
+3402,30,Upper secondary
+3403,30,Upper secondary
+3404,30,Upper secondary
+3405,60,Bachelor or equivalent
+3406,60,Bachelor or equivalent
+3407,60,Bachelor or equivalent
+3408,60,Bachelor or equivalent
+3409,60,Bachelor or equivalent
+3410,60,Bachelor or equivalent
+3411,60,Bachelor or equivalent
+3412,60,Bachelor or equivalent
+3413,60,Bachelor or equivalent
+3414,60,Bachelor or equivalent
+3415,60,Bachelor or equivalent
+3416,60,Bachelor or equivalent
+3417,60,Bachelor or equivalent
+3418,60,Bachelor or equivalent
+3419,60,Bachelor or equivalent
+3420,60,Bachelor or equivalent
+3421,60,Bachelor or equivalent
+3422,60,Bachelor or equivalent
+3423,60,Bachelor or equivalent
+3424,60,Bachelor or equivalent
+3425,60,Bachelor or equivalent
+3426,60,Bachelor or equivalent
+3427,60,Bachelor or equivalent
+3428,60,Bachelor or equivalent
+3429,60,Bachelor or equivalent
+3430,60,Bachelor or equivalent
+3431,60,Bachelor or equivalent
+3432,60,Bachelor or equivalent
+3433,60,Bachelor or equivalent
+3434,60,Bachelor or equivalent
+3435,60,Bachelor or equivalent
+3436,60,Bachelor or equivalent
+3437,60,Bachelor or equivalent
+3438,60,Bachelor or equivalent
+3439,60,Bachelor or equivalent
+3440,60,Bachelor or equivalent
+3441,60,Bachelor or equivalent
+3442,60,Bachelor or equivalent
+3443,60,Bachelor or equivalent
+3444,60,Bachelor or equivalent
+3445,60,Bachelor or equivalent
+3446,60,Bachelor or equivalent
+3447,60,Bachelor or equivalent
+3448,70,Master or equivalent
+3449,70,Master or equivalent
+3450,70,Master or equivalent
+3451,70,Master or equivalent
+3452,70,Master or equivalent
+3453,70,Master or equivalent
+3454,70,Master or equivalent
+3455,70,Master or equivalent
+3456,70,Master or equivalent
+3457,70,Master or equivalent
+3458,70,Master or equivalent
+3459,70,Master or equivalent
+3460,70,Master or equivalent
+3461,70,Master or equivalent
+3462,70,Master or equivalent
+3463,70,Master or equivalent
+3464,70,Master or equivalent
+3465,70,Master or equivalent
+3466,70,Master or equivalent
+3467,70,Master or equivalent
+3468,70,Master or equivalent
+3469,70,Master or equivalent
+3470,70,Master or equivalent
+3471,70,Master or equivalent
+3472,70,Master or equivalent
+3473,70,Master or equivalent
+3474,70,Master or equivalent
+3475,70,Master or equivalent
+3476,70,Master or equivalent
+3477,70,Master or equivalent
+3478,70,Master or equivalent
+3479,70,Master or equivalent
+3480,70,Master or equivalent
+3481,70,Master or equivalent
+3482,70,Master or equivalent
+3483,60,Bachelor or equivalent
+3484,70,Master or equivalent
+3485,70,Master or equivalent
+3486,70,Master or equivalent
+3487,70,Master or equivalent
+3488,70,Master or equivalent
+3489,70,Master or equivalent
+3490,70,Master or equivalent
+3491,70,Master or equivalent
+3492,70,Master or equivalent
+3493,70,Master or equivalent
+3494,70,Master or equivalent
+3495,70,Master or equivalent
+3496,60,Bachelor or equivalent
+3497,60,Bachelor or equivalent
+3498,60,Bachelor or equivalent
+3499,60,Bachelor or equivalent
+3500,70,Master or equivalent
+3535,70,Master or equivalent
+3594,30,Upper secondary
+3595,30,Upper secondary
+3596,30,Upper secondary
+3597,30,Upper secondary
+3598,30,Upper secondary
+3599,30,Upper secondary
+3600,30,Upper secondary
+3601,30,Upper secondary
+3602,30,Upper secondary
+3603,30,Upper secondary
+3604,30,Upper secondary
+3605,30,Upper secondary
+3606,30,Upper secondary
+3607,30,Upper secondary
+3608,30,Upper secondary
+3609,30,Upper secondary
+3610,30,Upper secondary
+3611,30,Upper secondary
+3612,30,Upper secondary
+3613,30,Upper secondary
+3614,30,Upper secondary
+3615,30,Upper secondary
+3616,30,Upper secondary
+3617,30,Upper secondary
+3618,30,Upper secondary
+3619,30,Upper secondary
+3620,30,Upper secondary
+3621,30,Upper secondary
+3622,30,Upper secondary
+3623,30,Upper secondary
+3624,30,Upper secondary
+3625,30,Upper secondary
+3626,30,Upper secondary
+3627,30,Upper secondary
+3628,30,Upper secondary
+3629,30,Upper secondary
+3630,30,Upper secondary
+3631,30,Upper secondary
+3632,30,Upper secondary
+3633,30,Upper secondary
+3634,30,Upper secondary
+3635,30,Upper secondary
+3636,30,Upper secondary
+3637,30,Upper secondary
+3638,30,Upper secondary
+3639,30,Upper secondary
+3640,30,Upper secondary
+3641,30,Upper secondary
+3642,30,Upper secondary
+3643,30,Upper secondary
+3644,30,Upper secondary
+3645,30,Upper secondary
+3646,30,Upper secondary
+3647,30,Upper secondary
+3648,30,Upper secondary
+3649,30,Upper secondary
+3650,30,Upper secondary
+3651,30,Upper secondary
+3652,30,Upper secondary
+3653,30,Upper secondary
+3654,30,Upper secondary
+3655,30,Upper secondary
+3656,30,Upper secondary
+3657,30,Upper secondary
+3658,30,Upper secondary
+3659,30,Upper secondary
+3660,30,Upper secondary
+3661,30,Upper secondary
+3662,30,Upper secondary
+3663,30,Upper secondary
+3664,30,Upper secondary
+3665,30,Upper secondary
+3666,30,Upper secondary
+3667,30,Upper secondary
+3668,30,Upper secondary
+3669,30,Upper secondary
+3670,30,Upper secondary
+3671,30,Upper secondary
+3672,30,Upper secondary
+3673,30,Upper secondary
+3674,30,Upper secondary
+3675,30,Upper secondary
+3676,30,Upper secondary
+3677,30,Upper secondary
+3678,30,Upper secondary
+3679,30,Upper secondary
+3680,30,Upper secondary
+3681,30,Upper secondary
+3682,30,Upper secondary
+3683,30,Upper secondary
+3684,30,Upper secondary
+3685,30,Upper secondary
+3686,30,Upper secondary
+3687,30,Upper secondary
+3688,30,Upper secondary
+3689,30,Upper secondary
+3690,30,Upper secondary
+3691,30,Upper secondary
+3692,30,Upper secondary
+3693,30,Upper secondary
+3694,30,Upper secondary
+3695,30,Upper secondary
+3696,30,Upper secondary
+3697,30,Upper secondary
+3698,30,Upper secondary
+3699,30,Upper secondary
+3700,30,Upper secondary
+3701,30,Upper secondary
+3702,30,Upper secondary
+3703,30,Upper secondary
+3704,30,Upper secondary
+3705,30,Upper secondary
+3706,30,Upper secondary
+3707,30,Upper secondary
+3708,30,Upper secondary
+3709,30,Upper secondary
+3710,30,Upper secondary
+3711,30,Upper secondary
+3712,30,Upper secondary
+3713,30,Upper secondary
+3714,30,Upper secondary
+3715,30,Upper secondary
+3716,30,Upper secondary
+3717,30,Upper secondary
+3718,30,Upper secondary
+3719,30,Upper secondary
+3720,30,Upper secondary
+3721,30,Upper secondary
+3722,30,Upper secondary
+3723,30,Upper secondary
+3724,30,Upper secondary
+3725,30,Upper secondary
+3726,30,Upper secondary
+3727,30,Upper secondary
+3728,30,Upper secondary
+3729,30,Upper secondary
+3730,30,Upper secondary
+3731,30,Upper secondary
+3732,30,Upper secondary
+3733,30,Upper secondary
+3734,30,Upper secondary
+3735,30,Upper secondary
+3736,30,Upper secondary
+3737,30,Upper secondary
+3738,30,Upper secondary
+3739,30,Upper secondary
+3740,30,Upper secondary
+3741,30,Upper secondary
+3742,30,Upper secondary
+3743,30,Upper secondary
+3744,50,Short cycle tertiary
+3745,50,Short cycle tertiary
+3746,50,Short cycle tertiary
+3747,50,Short cycle tertiary
+3748,50,Short cycle tertiary
+3749,30,Upper secondary
+3750,50,Short cycle tertiary
+3751,30,Upper secondary
+3752,50,Short cycle tertiary
+3753,30,Upper secondary
+3754,30,Upper secondary
+3755,60,Bachelor or equivalent
+3756,30,Upper secondary
+3757,30,Upper secondary
+3758,30,Upper secondary
+3759,30,Upper secondary
+3760,50,Short cycle tertiary
+3761,30,Upper secondary
+3762,30,Upper secondary
+3763,30,Upper secondary
+3764,30,Upper secondary
+3765,50,Short cycle tertiary
+3766,30,Upper secondary
+3767,30,Upper secondary
+3768,30,Upper secondary
+3769,30,Upper secondary
+3770,60,Bachelor or equivalent
+3771,30,Upper secondary
+3772,30,Upper secondary
+3773,30,Upper secondary
+3774,30,Upper secondary
+3775,50,Short cycle tertiary
+3776,30,Upper secondary
+3777,30,Upper secondary
+3778,30,Upper secondary
+3779,30,Upper secondary
+3780,30,Upper secondary
+3781,30,Upper secondary
+3782,30,Upper secondary
+3783,30,Upper secondary
+3784,30,Upper secondary
+3785,30,Upper secondary
+3786,30,Upper secondary
+3787,30,Upper secondary
+3788,30,Upper secondary
+3789,30,Upper secondary
+3790,30,Upper secondary
+3791,30,Upper secondary
+3792,30,Upper secondary
+3793,30,Upper secondary
+3794,30,Upper secondary
+3795,30,Upper secondary
+3796,30,Upper secondary
+3797,30,Upper secondary
+3798,30,Upper secondary
+3799,30,Upper secondary
+3800,50,Short cycle tertiary
+3801,50,Short cycle tertiary
+3802,50,Short cycle tertiary
+3803,50,Short cycle tertiary
+3804,50,Short cycle tertiary
+3805,30,Upper secondary
+3806,50,Short cycle tertiary
+3807,50,Short cycle tertiary
+3808,30,Upper secondary
+3809,50,Short cycle tertiary
+3810,70,Master or equivalent
+3811,50,Short cycle tertiary
+3812,50,Short cycle tertiary
+3813,50,Short cycle tertiary
+3814,50,Short cycle tertiary
+3815,50,Short cycle tertiary
+3816,50,Short cycle tertiary
+3817,50,Short cycle tertiary
+3818,50,Short cycle tertiary
+3819,50,Short cycle tertiary
+3820,50,Short cycle tertiary
+3821,50,Short cycle tertiary
+3822,50,Short cycle tertiary
+3823,50,Short cycle tertiary
+3824,50,Short cycle tertiary
+3825,50,Short cycle tertiary
+3826,50,Short cycle tertiary
+3827,50,Short cycle tertiary
+3828,50,Short cycle tertiary
+3829,50,Short cycle tertiary
+3830,50,Short cycle tertiary
+3831,50,Short cycle tertiary
+3832,50,Short cycle tertiary
+3833,50,Short cycle tertiary
+3834,50,Short cycle tertiary
+3835,30,Upper secondary
+3836,50,Short cycle tertiary
+3837,50,Short cycle tertiary
+3838,50,Short cycle tertiary
+3839,50,Short cycle tertiary
+3840,50,Short cycle tertiary
+3841,50,Short cycle tertiary
+3842,50,Short cycle tertiary
+3843,50,Short cycle tertiary
+3844,50,Short cycle tertiary
+3845,50,Short cycle tertiary
+3846,50,Short cycle tertiary
+3847,50,Short cycle tertiary
+3848,50,Short cycle tertiary
+3849,50,Short cycle tertiary
+3850,50,Short cycle tertiary
+3851,50,Short cycle tertiary
+3852,50,Short cycle tertiary
+3853,50,Short cycle tertiary
+3854,50,Short cycle tertiary
+3855,50,Short cycle tertiary
+3856,50,Short cycle tertiary
+3857,50,Short cycle tertiary
+3858,50,Short cycle tertiary
+3859,50,Short cycle tertiary
+3860,50,Short cycle tertiary
+3861,50,Short cycle tertiary
+3862,50,Short cycle tertiary
+3863,50,Short cycle tertiary
+3864,50,Short cycle tertiary
+3865,50,Short cycle tertiary
+3866,50,Short cycle tertiary
+3867,50,Short cycle tertiary
+3868,30,Upper secondary
+3869,30,Upper secondary
+3870,30,Upper secondary
+3871,30,Upper secondary
+3872,50,Short cycle tertiary
+3873,30,Upper secondary
+3874,30,Upper secondary
+3875,50,Short cycle tertiary
+3876,50,Short cycle tertiary
+3877,50,Short cycle tertiary
+3878,50,Short cycle tertiary
+3879,30,Upper secondary
+3880,30,Upper secondary
+3881,30,Upper secondary
+3882,30,Upper secondary
+3883,30,Upper secondary
+3884,30,Upper secondary
+3885,30,Upper secondary
+3886,30,Upper secondary
+3887,30,Upper secondary
+3888,30,Upper secondary
+3889,30,Upper secondary
+3890,30,Upper secondary
+3910,30,Upper secondary
+3915,30,Upper secondary
+3920,30,Upper secondary
+3925,30,Upper secondary
+3930,30,Upper secondary
+3935,30,Upper secondary
+3939,30,Upper secondary
+3940,30,Upper secondary
+3941,30,Upper secondary
+3942,20,Lower secondary
+3943,60,Bachelor or equivalent
+3944,70,Master or equivalent
+3945,50,Short cycle tertiary
+3950,50,Short cycle tertiary
+3955,20,Lower secondary
+3960,30,Upper secondary
+3961,30,Upper secondary
+3965,30,Upper secondary
+3970,50,Short cycle tertiary
+3971,50,Short cycle tertiary
+3972,50,Short cycle tertiary
+4000,50,Short cycle tertiary
+4001,30,Upper secondary
+4002,30,Upper secondary
+4003,30,Upper secondary
+4004,30,Upper secondary
+4005,50,Short cycle tertiary
+4006,50,Short cycle tertiary
+4007,50,Short cycle tertiary
+4008,30,Upper secondary
+4009,50,Short cycle tertiary
+4010,30,Upper secondary
+4011,50,Short cycle tertiary
+4012,50,Short cycle tertiary
+4013,50,Short cycle tertiary
+4014,50,Short cycle tertiary
+4015,50,Short cycle tertiary
+4017,50,Short cycle tertiary
+4018,50,Short cycle tertiary
+4019,50,Short cycle tertiary
+4020,50,Short cycle tertiary
+4021,50,Short cycle tertiary
+4022,50,Short cycle tertiary
+4023,50,Short cycle tertiary
+4024,50,Short cycle tertiary
+4025,50,Short cycle tertiary
+4026,50,Short cycle tertiary
+4027,50,Short cycle tertiary
+4028,50,Short cycle tertiary
+4029,50,Short cycle tertiary
+4030,50,Short cycle tertiary
+4032,60,Bachelor or equivalent
+4033,60,Bachelor or equivalent
+4034,60,Bachelor or equivalent
+4035,60,Bachelor or equivalent
+4036,50,Short cycle tertiary
+4037,50,Short cycle tertiary
+4038,30,Upper secondary
+4039,30,Upper secondary
+4040,60,Bachelor or equivalent
+4041,60,Bachelor or equivalent
+4044,30,Upper secondary
+4045,30,Upper secondary
+4048,60,Bachelor or equivalent
+4049,50,Short cycle tertiary
+4050,50,Short cycle tertiary
+4051,30,Upper secondary
+4052,50,Short cycle tertiary
+4053,30,Upper secondary
+4054,50,Short cycle tertiary
+4055,60,Bachelor or equivalent
+4056,30,Upper secondary
+4057,30,Upper secondary
+4058,30,Upper secondary
+4059,30,Upper secondary
+4060,50,Short cycle tertiary
+4061,60,Bachelor or equivalent
+4062,50,Short cycle tertiary
+4063,50,Short cycle tertiary
+4064,50,Short cycle tertiary
+4065,50,Short cycle tertiary
+4066,50,Short cycle tertiary
+4067,50,Short cycle tertiary
+4068,50,Short cycle tertiary
+4069,50,Short cycle tertiary
+4070,60,Bachelor or equivalent
+4071,60,Bachelor or equivalent
+4072,60,Bachelor or equivalent
+4073,60,Bachelor or equivalent
+4074,60,Bachelor or equivalent
+4075,50,Short cycle tertiary
+4076,60,Bachelor or equivalent
+4077,60,Bachelor or equivalent
+4078,60,Bachelor or equivalent
+4079,60,Bachelor or equivalent
+4080,30,Upper secondary
+4081,50,Short cycle tertiary
+4082,60,Bachelor or equivalent
+4083,60,Bachelor or equivalent
+4084,50,Short cycle tertiary
+4085,50,Short cycle tertiary
+4086,60,Bachelor or equivalent
+4087,60,Bachelor or equivalent
+4088,60,Bachelor or equivalent
+4089,50,Short cycle tertiary
+4090,50,Short cycle tertiary
+4091,50,Short cycle tertiary
+4092,50,Short cycle tertiary
+4093,60,Bachelor or equivalent
+4094,30,Upper secondary
+4096,50,Short cycle tertiary
+4097,50,Short cycle tertiary
+4098,30,Upper secondary
+4099,50,Short cycle tertiary
+4100,30,Upper secondary
+4101,30,Upper secondary
+4102,60,Bachelor or equivalent
+4103,30,Upper secondary
+4108,30,Upper secondary
+4117,30,Upper secondary
+4118,30,Upper secondary
+4119,30,Upper secondary
+4120,30,Upper secondary
+4121,30,Upper secondary
+4122,30,Upper secondary
+4123,30,Upper secondary
+4124,30,Upper secondary
+4125,30,Upper secondary
+4126,30,Upper secondary
+4127,30,Upper secondary
+4128,30,Upper secondary
+4129,30,Upper secondary
+4134,50,Short cycle tertiary
+4135,30,Upper secondary
+4140,30,Upper secondary
+4141,30,Upper secondary
+4142,30,Upper secondary
+4143,30,Upper secondary
+4144,30,Upper secondary
+4145,30,Upper secondary
+4166,30,Upper secondary
+4168,30,Upper secondary
+4188,30,Upper secondary
+4189,30,Upper secondary
+4192,30,Upper secondary
+4193,30,Upper secondary
+4194,30,Upper secondary
+4195,30,Upper secondary
+4196,30,Upper secondary
+4197,30,Upper secondary
+4198,30,Upper secondary
+4199,30,Upper secondary
+4200,30,Upper secondary
+4201,30,Upper secondary
+4202,30,Upper secondary
+4203,30,Upper secondary
+4204,30,Upper secondary
+4205,30,Upper secondary
+4206,30,Upper secondary
+4207,30,Upper secondary
+4208,70,Master or equivalent
+4211,30,Upper secondary
+4212,30,Upper secondary
+4213,30,Upper secondary
+4214,30,Upper secondary
+4215,30,Upper secondary
+4216,30,Upper secondary
+4217,30,Upper secondary
+4218,30,Upper secondary
+4219,30,Upper secondary
+4220,30,Upper secondary
+4221,30,Upper secondary
+4222,30,Upper secondary
+4223,30,Upper secondary
+4224,30,Upper secondary
+4225,30,Upper secondary
+4226,30,Upper secondary
+4227,30,Upper secondary
+4228,30,Upper secondary
+4229,30,Upper secondary
+4230,30,Upper secondary
+4231,30,Upper secondary
+4232,30,Upper secondary
+4233,30,Upper secondary
+4234,30,Upper secondary
+4235,30,Upper secondary
+4236,30,Upper secondary
+4237,30,Upper secondary
+4238,30,Upper secondary
+4239,30,Upper secondary
+4240,30,Upper secondary
+4241,30,Upper secondary
+4242,30,Upper secondary
+4243,30,Upper secondary
+4244,30,Upper secondary
+4245,30,Upper secondary
+4246,30,Upper secondary
+4247,30,Upper secondary
+4248,30,Upper secondary
+4249,30,Upper secondary
+4250,30,Upper secondary
+4251,30,Upper secondary
+4252,30,Upper secondary
+4253,30,Upper secondary
+4254,30,Upper secondary
+4255,30,Upper secondary
+4256,30,Upper secondary
+4257,30,Upper secondary
+4258,30,Upper secondary
+4259,30,Upper secondary
+4260,30,Upper secondary
+4261,30,Upper secondary
+4262,30,Upper secondary
+4263,30,Upper secondary
+4264,30,Upper secondary
+4265,30,Upper secondary
+4266,30,Upper secondary
+4267,30,Upper secondary
+4268,30,Upper secondary
+4269,30,Upper secondary
+4270,30,Upper secondary
+4271,30,Upper secondary
+4272,30,Upper secondary
+4273,30,Upper secondary
+4274,30,Upper secondary
+4275,30,Upper secondary
+4276,30,Upper secondary
+4277,30,Upper secondary
+4278,30,Upper secondary
+4279,30,Upper secondary
+4280,30,Upper secondary
+4281,30,Upper secondary
+4282,30,Upper secondary
+4283,30,Upper secondary
+4284,30,Upper secondary
+4285,30,Upper secondary
+4286,30,Upper secondary
+4287,30,Upper secondary
+4288,30,Upper secondary
+4289,30,Upper secondary
+4290,30,Upper secondary
+4291,30,Upper secondary
+4292,30,Upper secondary
+4293,30,Upper secondary
+4294,30,Upper secondary
+4295,30,Upper secondary
+4296,30,Upper secondary
+4297,30,Upper secondary
+4298,30,Upper secondary
+4299,30,Upper secondary
+4300,30,Upper secondary
+4301,30,Upper secondary
+4302,30,Upper secondary
+4303,30,Upper secondary
+4304,30,Upper secondary
+4305,30,Upper secondary
+4306,30,Upper secondary
+4307,30,Upper secondary
+4308,30,Upper secondary
+4309,30,Upper secondary
+4310,30,Upper secondary
+4311,30,Upper secondary
+4312,30,Upper secondary
+4313,30,Upper secondary
+4314,30,Upper secondary
+4315,30,Upper secondary
+4316,30,Upper secondary
+4317,30,Upper secondary
+4318,30,Upper secondary
+4319,30,Upper secondary
+4320,30,Upper secondary
+4321,30,Upper secondary
+4322,30,Upper secondary
+4323,30,Upper secondary
+4324,30,Upper secondary
+4325,30,Upper secondary
+4326,30,Upper secondary
+4327,30,Upper secondary
+4328,30,Upper secondary
+4329,30,Upper secondary
+4330,30,Upper secondary
+4331,30,Upper secondary
+4332,30,Upper secondary
+4333,30,Upper secondary
+4334,30,Upper secondary
+4335,30,Upper secondary
+4336,30,Upper secondary
+4337,30,Upper secondary
+4338,30,Upper secondary
+4339,30,Upper secondary
+4340,30,Upper secondary
+4341,30,Upper secondary
+4342,30,Upper secondary
+4343,30,Upper secondary
+4344,30,Upper secondary
+4345,30,Upper secondary
+4346,30,Upper secondary
+4347,30,Upper secondary
+4348,30,Upper secondary
+4349,30,Upper secondary
+4350,30,Upper secondary
+4351,30,Upper secondary
+4352,30,Upper secondary
+4353,30,Upper secondary
+4354,30,Upper secondary
+4355,30,Upper secondary
+4356,30,Upper secondary
+4357,30,Upper secondary
+4358,30,Upper secondary
+4359,30,Upper secondary
+4360,30,Upper secondary
+4361,30,Upper secondary
+4362,30,Upper secondary
+4363,30,Upper secondary
+4364,30,Upper secondary
+4365,30,Upper secondary
+4366,30,Upper secondary
+4367,30,Upper secondary
+4368,30,Upper secondary
+4369,30,Upper secondary
+4370,30,Upper secondary
+4371,30,Upper secondary
+4372,30,Upper secondary
+4373,30,Upper secondary
+4374,30,Upper secondary
+4375,30,Upper secondary
+4376,30,Upper secondary
+4377,30,Upper secondary
+4378,30,Upper secondary
+4379,30,Upper secondary
+4380,30,Upper secondary
+4381,30,Upper secondary
+4382,30,Upper secondary
+4383,30,Upper secondary
+4384,30,Upper secondary
+4385,30,Upper secondary
+4386,30,Upper secondary
+4387,30,Upper secondary
+4388,30,Upper secondary
+4389,30,Upper secondary
+4390,30,Upper secondary
+4391,30,Upper secondary
+4392,30,Upper secondary
+4393,30,Upper secondary
+4394,30,Upper secondary
+4395,30,Upper secondary
+4396,30,Upper secondary
+4397,30,Upper secondary
+4398,30,Upper secondary
+4399,30,Upper secondary
+4400,30,Upper secondary
+4401,30,Upper secondary
+4402,30,Upper secondary
+4403,30,Upper secondary
+4404,30,Upper secondary
+4405,30,Upper secondary
+4406,30,Upper secondary
+4407,30,Upper secondary
+4410,30,Upper secondary
+4411,30,Upper secondary
+4412,30,Upper secondary
+4413,30,Upper secondary
+4414,30,Upper secondary
+4415,30,Upper secondary
+4416,30,Upper secondary
+4417,30,Upper secondary
+4418,30,Upper secondary
+4419,30,Upper secondary
+4420,30,Upper secondary
+4421,30,Upper secondary
+4422,30,Upper secondary
+4423,30,Upper secondary
+4424,30,Upper secondary
+4425,30,Upper secondary
+4426,30,Upper secondary
+4427,30,Upper secondary
+4428,30,Upper secondary
+4429,30,Upper secondary
+4430,30,Upper secondary
+4431,30,Upper secondary
+4432,30,Upper secondary
+4433,30,Upper secondary
+4434,30,Upper secondary
+4435,30,Upper secondary
+4436,30,Upper secondary
+4437,30,Upper secondary
+4438,30,Upper secondary
+4439,30,Upper secondary
+4440,30,Upper secondary
+4441,30,Upper secondary
+4442,30,Upper secondary
+4443,30,Upper secondary
+4444,30,Upper secondary
+4445,30,Upper secondary
+4446,30,Upper secondary
+4447,30,Upper secondary
+4448,30,Upper secondary
+4449,30,Upper secondary
+4450,60,Bachelor or equivalent
+4451,30,Upper secondary
+4452,30,Upper secondary
+4453,30,Upper secondary
+4454,30,Upper secondary
+4455,30,Upper secondary
+4456,30,Upper secondary
+4457,30,Upper secondary
+4458,30,Upper secondary
+4459,30,Upper secondary
+4460,30,Upper secondary
+4461,30,Upper secondary
+4462,30,Upper secondary
+4463,30,Upper secondary
+4464,30,Upper secondary
+4465,30,Upper secondary
+4466,30,Upper secondary
+4467,30,Upper secondary
+4468,30,Upper secondary
+4469,30,Upper secondary
+4470,30,Upper secondary
+4471,30,Upper secondary
+4472,30,Upper secondary
+4473,30,Upper secondary
+4474,60,Bachelor or equivalent
+4475,30,Upper secondary
+4476,30,Upper secondary
+4477,30,Upper secondary
+4478,30,Upper secondary
+4479,30,Upper secondary
+4480,30,Upper secondary
+4481,30,Upper secondary
+4482,30,Upper secondary
+4483,30,Upper secondary
+4484,30,Upper secondary
+4485,30,Upper secondary
+4486,30,Upper secondary
+4487,30,Upper secondary
+4488,30,Upper secondary
+4489,30,Upper secondary
+4490,30,Upper secondary
+4491,30,Upper secondary
+4492,30,Upper secondary
+4493,30,Upper secondary
+4494,30,Upper secondary
+4495,30,Upper secondary
+4496,30,Upper secondary
+4497,30,Upper secondary
+4498,30,Upper secondary
+4499,30,Upper secondary
+4500,30,Upper secondary
+4501,30,Upper secondary
+4502,30,Upper secondary
+4503,30,Upper secondary
+4504,30,Upper secondary
+4505,30,Upper secondary
+4506,30,Upper secondary
+4507,30,Upper secondary
+4508,30,Upper secondary
+4509,30,Upper secondary
+4510,30,Upper secondary
+4511,30,Upper secondary
+4512,30,Upper secondary
+4513,30,Upper secondary
+4514,30,Upper secondary
+4515,30,Upper secondary
+4516,30,Upper secondary
+4517,30,Upper secondary
+4518,30,Upper secondary
+4519,30,Upper secondary
+4520,30,Upper secondary
+4521,30,Upper secondary
+4522,30,Upper secondary
+4523,30,Upper secondary
+4524,30,Upper secondary
+4525,30,Upper secondary
+4526,30,Upper secondary
+4527,30,Upper secondary
+4528,30,Upper secondary
+4529,30,Upper secondary
+4530,30,Upper secondary
+4531,30,Upper secondary
+4532,30,Upper secondary
+4533,30,Upper secondary
+4534,30,Upper secondary
+4535,30,Upper secondary
+4536,30,Upper secondary
+4537,30,Upper secondary
+4538,30,Upper secondary
+4539,30,Upper secondary
+4540,30,Upper secondary
+4541,30,Upper secondary
+4542,30,Upper secondary
+4543,30,Upper secondary
+4544,30,Upper secondary
+4545,30,Upper secondary
+4546,30,Upper secondary
+4547,30,Upper secondary
+4548,30,Upper secondary
+4549,30,Upper secondary
+4550,30,Upper secondary
+4551,30,Upper secondary
+4552,30,Upper secondary
+4553,30,Upper secondary
+4554,30,Upper secondary
+4555,30,Upper secondary
+4556,30,Upper secondary
+4557,30,Upper secondary
+4558,30,Upper secondary
+4559,30,Upper secondary
+4560,30,Upper secondary
+4561,30,Upper secondary
+4562,50,Short cycle tertiary
+4563,30,Upper secondary
+4564,30,Upper secondary
+4565,30,Upper secondary
+4566,30,Upper secondary
+4567,30,Upper secondary
+4568,30,Upper secondary
+4569,30,Upper secondary
+4570,30,Upper secondary
+4571,30,Upper secondary
+4572,30,Upper secondary
+4573,30,Upper secondary
+4574,30,Upper secondary
+4575,30,Upper secondary
+4576,30,Upper secondary
+4577,30,Upper secondary
+4578,30,Upper secondary
+4579,30,Upper secondary
+4580,30,Upper secondary
+4581,30,Upper secondary
+4582,30,Upper secondary
+4583,30,Upper secondary
+4599,60,Bachelor or equivalent
+4600,30,Upper secondary
+4601,30,Upper secondary
+4602,30,Upper secondary
+4603,30,Upper secondary
+4604,30,Upper secondary
+4605,30,Upper secondary
+4606,30,Upper secondary
+4607,30,Upper secondary
+4608,30,Upper secondary
+4609,30,Upper secondary
+4610,30,Upper secondary
+4611,30,Upper secondary
+4612,30,Upper secondary
+4613,30,Upper secondary
+4614,30,Upper secondary
+4615,30,Upper secondary
+4616,30,Upper secondary
+4617,30,Upper secondary
+4618,30,Upper secondary
+4619,30,Upper secondary
+4620,30,Upper secondary
+4621,30,Upper secondary
+4622,30,Upper secondary
+4623,30,Upper secondary
+4624,30,Upper secondary
+4625,30,Upper secondary
+4626,30,Upper secondary
+4627,30,Upper secondary
+4628,30,Upper secondary
+4629,30,Upper secondary
+4630,30,Upper secondary
+4631,30,Upper secondary
+4632,30,Upper secondary
+4633,30,Upper secondary
+4634,30,Upper secondary
+4635,30,Upper secondary
+4636,30,Upper secondary
+4637,30,Upper secondary
+4638,30,Upper secondary
+4639,30,Upper secondary
+4640,30,Upper secondary
+4641,30,Upper secondary
+4642,30,Upper secondary
+4643,30,Upper secondary
+4644,30,Upper secondary
+4645,30,Upper secondary
+4646,30,Upper secondary
+4647,30,Upper secondary
+4648,30,Upper secondary
+4649,30,Upper secondary
+4650,30,Upper secondary
+4651,30,Upper secondary
+4652,30,Upper secondary
+4653,30,Upper secondary
+4654,30,Upper secondary
+4655,30,Upper secondary
+4656,30,Upper secondary
+4657,30,Upper secondary
+4658,30,Upper secondary
+4659,30,Upper secondary
+4660,30,Upper secondary
+4661,30,Upper secondary
+4662,30,Upper secondary
+4663,30,Upper secondary
+4664,30,Upper secondary
+4665,30,Upper secondary
+4666,30,Upper secondary
+4667,30,Upper secondary
+4668,30,Upper secondary
+4669,30,Upper secondary
+4670,30,Upper secondary
+4671,30,Upper secondary
+4672,30,Upper secondary
+4673,30,Upper secondary
+4674,30,Upper secondary
+4675,30,Upper secondary
+4676,30,Upper secondary
+4677,30,Upper secondary
+4678,30,Upper secondary
+4679,30,Upper secondary
+4680,30,Upper secondary
+4681,30,Upper secondary
+4682,30,Upper secondary
+4683,30,Upper secondary
+4684,30,Upper secondary
+4685,30,Upper secondary
+4686,30,Upper secondary
+4687,30,Upper secondary
+4688,30,Upper secondary
+4689,30,Upper secondary
+4690,30,Upper secondary
+4691,30,Upper secondary
+4692,30,Upper secondary
+4693,30,Upper secondary
+4694,30,Upper secondary
+4695,30,Upper secondary
+4696,30,Upper secondary
+4697,30,Upper secondary
+4698,30,Upper secondary
+4699,30,Upper secondary
+4700,30,Upper secondary
+4701,30,Upper secondary
+4702,30,Upper secondary
+4703,30,Upper secondary
+4704,30,Upper secondary
+4705,30,Upper secondary
+4706,30,Upper secondary
+4707,30,Upper secondary
+4708,30,Upper secondary
+4709,30,Upper secondary
+4710,30,Upper secondary
+4711,30,Upper secondary
+4712,30,Upper secondary
+4713,30,Upper secondary
+4714,30,Upper secondary
+4715,30,Upper secondary
+4716,30,Upper secondary
+4717,30,Upper secondary
+4718,30,Upper secondary
+4719,30,Upper secondary
+4720,30,Upper secondary
+4721,30,Upper secondary
+4722,30,Upper secondary
+4723,30,Upper secondary
+4724,30,Upper secondary
+4725,30,Upper secondary
+4726,30,Upper secondary
+4727,30,Upper secondary
+4728,30,Upper secondary
+4729,30,Upper secondary
+4730,30,Upper secondary
+4731,30,Upper secondary
+4732,30,Upper secondary
+4733,30,Upper secondary
+4734,30,Upper secondary
+4735,30,Upper secondary
+4736,30,Upper secondary
+4737,30,Upper secondary
+4738,30,Upper secondary
+4739,30,Upper secondary
+4740,30,Upper secondary
+4741,30,Upper secondary
+4750,30,Upper secondary
+4754,30,Upper secondary
+4755,30,Upper secondary
+4756,30,Upper secondary
+4757,30,Upper secondary
+4758,30,Upper secondary
+4759,30,Upper secondary
+4760,30,Upper secondary
+4762,30,Upper secondary
+4763,30,Upper secondary
+4764,30,Upper secondary
+4765,30,Upper secondary
+4766,30,Upper secondary
+4767,30,Upper secondary
+4768,30,Upper secondary
+4780,30,Upper secondary
+4781,30,Upper secondary
+4782,30,Upper secondary
+4783,30,Upper secondary
+4784,30,Upper secondary
+4785,30,Upper secondary
+4786,30,Upper secondary
+4787,30,Upper secondary
+4788,30,Upper secondary
+4789,30,Upper secondary
+4790,30,Upper secondary
+4791,30,Upper secondary
+4792,30,Upper secondary
+4800,70,Master or equivalent
+4801,60,Bachelor or equivalent
+4802,60,Bachelor or equivalent
+4803,60,Bachelor or equivalent
+4808,70,Master or equivalent
+4809,70,Master or equivalent
+4810,70,Master or equivalent
+4811,70,Master or equivalent
+4850,30,Upper secondary
+4851,30,Upper secondary
+4853,30,Upper secondary
+4854,30,Upper secondary
+4855,30,Upper secondary
+4856,30,Upper secondary
+4858,30,Upper secondary
+4859,30,Upper secondary
+4860,30,Upper secondary
+4861,30,Upper secondary
+4864,30,Upper secondary
+4865,30,Upper secondary
+4866,30,Upper secondary
+4867,30,Upper secondary
+4868,30,Upper secondary
+4869,30,Upper secondary
+4870,30,Upper secondary
+4871,30,Upper secondary
+4874,30,Upper secondary
+4875,30,Upper secondary
+4876,30,Upper secondary
+4877,30,Upper secondary
+4878,30,Upper secondary
+4879,30,Upper secondary
+4880,30,Upper secondary
+4881,30,Upper secondary
+4882,30,Upper secondary
+4901,30,Upper secondary
+4902,30,Upper secondary
+4903,30,Upper secondary
+4904,30,Upper secondary
+4905,30,Upper secondary
+4906,30,Upper secondary
+4907,30,Upper secondary
+4908,30,Upper secondary
+4909,30,Upper secondary
+4910,30,Upper secondary
+4911,30,Upper secondary
+4912,30,Upper secondary
+4913,30,Upper secondary
+4914,30,Upper secondary
+4915,30,Upper secondary
+4916,30,Upper secondary
+4917,30,Upper secondary
+4918,30,Upper secondary
+4919,30,Upper secondary
+4920,30,Upper secondary
+4921,30,Upper secondary
+4922,30,Upper secondary
+4923,30,Upper secondary
+4924,30,Upper secondary
+4925,30,Upper secondary
+4926,30,Upper secondary
+4927,30,Upper secondary
+4928,30,Upper secondary
+4929,30,Upper secondary
+4930,30,Upper secondary
+4931,30,Upper secondary
+4932,30,Upper secondary
+4933,30,Upper secondary
+4934,30,Upper secondary
+4937,30,Upper secondary
+4938,30,Upper secondary
+4939,30,Upper secondary
+4940,30,Upper secondary
+4941,30,Upper secondary
+4942,30,Upper secondary
+4943,30,Upper secondary
+4944,30,Upper secondary
+4945,30,Upper secondary
+4946,30,Upper secondary
+4947,30,Upper secondary
+4948,30,Upper secondary
+4949,30,Upper secondary
+4951,30,Upper secondary
+4952,30,Upper secondary
+4953,30,Upper secondary
+4954,30,Upper secondary
+4955,30,Upper secondary
+4956,30,Upper secondary
+4957,30,Upper secondary
+4958,30,Upper secondary
+4959,30,Upper secondary
+4960,30,Upper secondary
+4961,30,Upper secondary
+4962,30,Upper secondary
+4963,30,Upper secondary
+4964,30,Upper secondary
+4965,30,Upper secondary
+4966,30,Upper secondary
+4967,30,Upper secondary
+4968,30,Upper secondary
+4969,30,Upper secondary
+4970,30,Upper secondary
+4971,30,Upper secondary
+4977,30,Upper secondary
+4978,30,Upper secondary
+4979,30,Upper secondary
+4980,30,Upper secondary
+4981,30,Upper secondary
+4982,30,Upper secondary
+4983,30,Upper secondary
+4984,30,Upper secondary
+4985,30,Upper secondary
+4986,30,Upper secondary
+4987,30,Upper secondary
+4988,30,Upper secondary
+4989,30,Upper secondary
+4990,30,Upper secondary
+4991,30,Upper secondary
+4992,30,Upper secondary
+4994,30,Upper secondary
+4995,30,Upper secondary
+4996,30,Upper secondary
+4997,30,Upper secondary
+4998,30,Upper secondary
+4999,50,Short cycle tertiary
+5000,50,Short cycle tertiary
+5001,50,Short cycle tertiary
+5003,50,Short cycle tertiary
+5004,50,Short cycle tertiary
+5005,50,Short cycle tertiary
+5006,50,Short cycle tertiary
+5007,50,Short cycle tertiary
+5008,50,Short cycle tertiary
+5009,50,Short cycle tertiary
+5015,20,Lower secondary
+5016,20,Lower secondary
+5017,50,Short cycle tertiary
+5018,20,Lower secondary
+5019,20,Lower secondary
+5020,50,Short cycle tertiary
+5021,50,Short cycle tertiary
+5022,70,Master or equivalent
+5023,70,Master or equivalent
+5024,70,Master or equivalent
+5025,50,Short cycle tertiary
+5027,50,Short cycle tertiary
+5028,30,Upper secondary
+5029,30,Upper secondary
+5030,30,Upper secondary
+5031,50,Short cycle tertiary
+5032,30,Upper secondary
+5033,50,Short cycle tertiary
+5034,50,Short cycle tertiary
+5035,50,Short cycle tertiary
+5036,50,Short cycle tertiary
+5037,50,Short cycle tertiary
+5038,50,Short cycle tertiary
+5039,50,Short cycle tertiary
+5040,50,Short cycle tertiary
+5041,50,Short cycle tertiary
+5042,50,Short cycle tertiary
+5043,50,Short cycle tertiary
+5044,20,Lower secondary
+5045,50,Short cycle tertiary
+5046,60,Bachelor or equivalent
+5047,60,Bachelor or equivalent
+5048,20,Lower secondary
+5049,20,Lower secondary
+5050,30,Upper secondary
+5051,20,Lower secondary
+5052,20,Lower secondary
+5053,20,Lower secondary
+5054,20,Lower secondary
+5055,60,Bachelor or equivalent
+5056,70,Master or equivalent
+5057,70,Master or equivalent
+5058,70,Master or equivalent
+5059,70,Master or equivalent
+5060,60,Bachelor or equivalent
+5061,50,Short cycle tertiary
+5062,70,Master or equivalent
+5063,70,Master or equivalent
+5064,70,Master or equivalent
+5065,50,Short cycle tertiary
+5066,50,Short cycle tertiary
+5067,50,Short cycle tertiary
+5068,50,Short cycle tertiary
+5069,50,Short cycle tertiary
+5070,50,Short cycle tertiary
+5071,50,Short cycle tertiary
+5072,50,Short cycle tertiary
+5073,50,Short cycle tertiary
+5074,50,Short cycle tertiary
+5075,60,Bachelor or equivalent
+5076,50,Short cycle tertiary
+5077,50,Short cycle tertiary
+5078,50,Short cycle tertiary
+5079,50,Short cycle tertiary
+5080,30,Upper secondary
+5081,30,Upper secondary
+5082,50,Short cycle tertiary
+5083,50,Short cycle tertiary
+5084,50,Short cycle tertiary
+5085,50,Short cycle tertiary
+5086,50,Short cycle tertiary
+5087,50,Short cycle tertiary
+5088,30,Upper secondary
+5089,60,Bachelor or equivalent
+5090,30,Upper secondary
+5091,20,Lower secondary
+5092,30,Upper secondary
+5093,50,Short cycle tertiary
+5094,50,Short cycle tertiary
+5095,50,Short cycle tertiary
+5096,50,Short cycle tertiary
+5097,30,Upper secondary
+5098,30,Upper secondary
+5099,50,Short cycle tertiary
+5100,50,Short cycle tertiary
+5101,70,Master or equivalent
+5102,70,Master or equivalent
+5103,70,Master or equivalent
+5104,70,Master or equivalent
+5105,70,Master or equivalent
+5106,70,Master or equivalent
+5107,70,Master or equivalent
+5108,70,Master or equivalent
+5109,70,Master or equivalent
+5110,50,Short cycle tertiary
+5111,60,Bachelor or equivalent
+5112,60,Bachelor or equivalent
+5113,60,Bachelor or equivalent
+5114,60,Bachelor or equivalent
+5115,60,Bachelor or equivalent
+5116,60,Bachelor or equivalent
+5117,60,Bachelor or equivalent
+5118,60,Bachelor or equivalent
+5119,60,Bachelor or equivalent
+5120,60,Bachelor or equivalent
+5121,50,Short cycle tertiary
+5122,50,Short cycle tertiary
+5123,50,Short cycle tertiary
+5124,50,Short cycle tertiary
+5125,50,Short cycle tertiary
+5126,30,Upper secondary
+5127,60,Bachelor or equivalent
+5128,60,Bachelor or equivalent
+5129,50,Short cycle tertiary
+5130,50,Short cycle tertiary
+5131,50,Short cycle tertiary
+5132,50,Short cycle tertiary
+5133,50,Short cycle tertiary
+5134,50,Short cycle tertiary
+5135,50,Short cycle tertiary
+5136,50,Short cycle tertiary
+5137,50,Short cycle tertiary
+5138,60,Bachelor or equivalent
+5139,50,Short cycle tertiary
+5140,60,Bachelor or equivalent
+5141,50,Short cycle tertiary
+5142,30,Upper secondary
+5143,50,Short cycle tertiary
+5144,30,Upper secondary
+5145,30,Upper secondary
+5146,30,Upper secondary
+5147,30,Upper secondary
+5148,30,Upper secondary
+5149,30,Upper secondary
+5150,50,Short cycle tertiary
+5151,60,Bachelor or equivalent
+5152,30,Upper secondary
+5153,60,Bachelor or equivalent
+5154,60,Bachelor or equivalent
+5155,30,Upper secondary
+5156,50,Short cycle tertiary
+5157,60,Bachelor or equivalent
+5158,60,Bachelor or equivalent
+5159,60,Bachelor or equivalent
+5160,60,Bachelor or equivalent
+5161,60,Bachelor or equivalent
+5162,50,Short cycle tertiary
+5163,50,Short cycle tertiary
+5164,50,Short cycle tertiary
+5165,60,Bachelor or equivalent
+5166,60,Bachelor or equivalent
+5167,60,Bachelor or equivalent
+5168,60,Bachelor or equivalent
+5169,60,Bachelor or equivalent
+5170,60,Bachelor or equivalent
+5171,60,Bachelor or equivalent
+5172,60,Bachelor or equivalent
+5173,60,Bachelor or equivalent
+5174,50,Short cycle tertiary
+5175,60,Bachelor or equivalent
+5176,60,Bachelor or equivalent
+5177,50,Short cycle tertiary
+5178,60,Bachelor or equivalent
+5179,60,Bachelor or equivalent
+5180,70,Master or equivalent
+5181,60,Bachelor or equivalent
+5182,30,Upper secondary
+5183,30,Upper secondary
+5184,50,Short cycle tertiary
+5185,30,Upper secondary
+5186,30,Upper secondary
+5187,60,Bachelor or equivalent
+5188,60,Bachelor or equivalent
+5189,60,Bachelor or equivalent
+5190,60,Bachelor or equivalent
+5191,60,Bachelor or equivalent
+5192,60,Bachelor or equivalent
+5193,60,Bachelor or equivalent
+5194,60,Bachelor or equivalent
+5195,50,Short cycle tertiary
+5196,50,Short cycle tertiary
+5197,50,Short cycle tertiary
+5198,50,Short cycle tertiary
+5199,50,Short cycle tertiary
+5200,30,Upper secondary
+5201,30,Upper secondary
+5202,30,Upper secondary
+5203,50,Short cycle tertiary
+5204,70,Master or equivalent
+5205,30,Upper secondary
+5206,30,Upper secondary
+5207,30,Upper secondary
+5208,30,Upper secondary
+5209,30,Upper secondary
+5210,60,Bachelor or equivalent
+5211,60,Bachelor or equivalent
+5212,70,Master or equivalent
+5213,70,Master or equivalent
+5214,70,Master or equivalent
+5215,30,Upper secondary
+5216,70,Master or equivalent
+5217,70,Master or equivalent
+5218,70,Master or equivalent
+5219,70,Master or equivalent
+5220,50,Short cycle tertiary
+5221,60,Bachelor or equivalent
+5222,60,Bachelor or equivalent
+5223,60,Bachelor or equivalent
+5224,60,Bachelor or equivalent
+5225,60,Bachelor or equivalent
+5226,60,Bachelor or equivalent
+5227,60,Bachelor or equivalent
+5228,60,Bachelor or equivalent
+5229,60,Bachelor or equivalent
+5230,30,Upper secondary
+5231,50,Short cycle tertiary
+5232,50,Short cycle tertiary
+5233,50,Short cycle tertiary
+5234,50,Short cycle tertiary
+5235,50,Short cycle tertiary
+5236,70,Master or equivalent
+5237,70,Master or equivalent
+5238,50,Short cycle tertiary
+5239,70,Master or equivalent
+5240,70,Master or equivalent
+5241,70,Master or equivalent
+5242,70,Master or equivalent
+5243,70,Master or equivalent
+5244,70,Master or equivalent
+5245,70,Master or equivalent
+5246,60,Bachelor or equivalent
+5247,60,Bachelor or equivalent
+5248,60,Bachelor or equivalent
+5249,70,Master or equivalent
+5250,60,Bachelor or equivalent
+5251,60,Bachelor or equivalent
+5252,60,Bachelor or equivalent
+5253,60,Bachelor or equivalent
+5254,60,Bachelor or equivalent
+5255,60,Bachelor or equivalent
+5256,60,Bachelor or equivalent
+5257,60,Bachelor or equivalent
+5258,60,Bachelor or equivalent
+5259,60,Bachelor or equivalent
+5260,50,Short cycle tertiary
+5261,30,Upper secondary
+5262,30,Upper secondary
+5263,30,Upper secondary
+5264,30,Upper secondary
+5265,70,Master or equivalent
+5266,60,Bachelor or equivalent
+5267,60,Bachelor or equivalent
+5268,60,Bachelor or equivalent
+5269,60,Bachelor or equivalent
+5270,60,Bachelor or equivalent
+5271,70,Master or equivalent
+5272,70,Master or equivalent
+5273,70,Master or equivalent
+5274,70,Master or equivalent
+5275,60,Bachelor or equivalent
+5276,60,Bachelor or equivalent
+5277,60,Bachelor or equivalent
+5278,60,Bachelor or equivalent
+5279,60,Bachelor or equivalent
+5280,60,Bachelor or equivalent
+5281,60,Bachelor or equivalent
+5282,60,Bachelor or equivalent
+5283,60,Bachelor or equivalent
+5284,60,Bachelor or equivalent
+5285,70,Master or equivalent
+5286,70,Master or equivalent
+5287,30,Upper secondary
+5295,50,Short cycle tertiary
+5298,30,Upper secondary
+5299,30,Upper secondary
+5300,60,Bachelor or equivalent
+5301,60,Bachelor or equivalent
+5302,60,Bachelor or equivalent
+5303,60,Bachelor or equivalent
+5304,60,Bachelor or equivalent
+5305,60,Bachelor or equivalent
+5306,60,Bachelor or equivalent
+5307,60,Bachelor or equivalent
+5308,60,Bachelor or equivalent
+5309,60,Bachelor or equivalent
+5310,60,Bachelor or equivalent
+5311,60,Bachelor or equivalent
+5312,60,Bachelor or equivalent
+5313,60,Bachelor or equivalent
+5314,60,Bachelor or equivalent
+5315,60,Bachelor or equivalent
+5316,60,Bachelor or equivalent
+5317,60,Bachelor or equivalent
+5318,60,Bachelor or equivalent
+5319,60,Bachelor or equivalent
+5320,60,Bachelor or equivalent
+5321,60,Bachelor or equivalent
+5322,60,Bachelor or equivalent
+5323,60,Bachelor or equivalent
+5324,60,Bachelor or equivalent
+5325,60,Bachelor or equivalent
+5326,60,Bachelor or equivalent
+5327,60,Bachelor or equivalent
+5328,60,Bachelor or equivalent
+5329,60,Bachelor or equivalent
+5330,60,Bachelor or equivalent
+5331,60,Bachelor or equivalent
+5332,60,Bachelor or equivalent
+5333,60,Bachelor or equivalent
+5334,60,Bachelor or equivalent
+5335,60,Bachelor or equivalent
+5336,60,Bachelor or equivalent
+5337,60,Bachelor or equivalent
+5338,60,Bachelor or equivalent
+5339,60,Bachelor or equivalent
+5340,60,Bachelor or equivalent
+5341,60,Bachelor or equivalent
+5342,60,Bachelor or equivalent
+5343,60,Bachelor or equivalent
+5344,60,Bachelor or equivalent
+5345,60,Bachelor or equivalent
+5346,60,Bachelor or equivalent
+5347,60,Bachelor or equivalent
+5348,60,Bachelor or equivalent
+5349,60,Bachelor or equivalent
+5350,60,Bachelor or equivalent
+5351,60,Bachelor or equivalent
+5352,60,Bachelor or equivalent
+5353,60,Bachelor or equivalent
+5354,60,Bachelor or equivalent
+5355,60,Bachelor or equivalent
+5356,60,Bachelor or equivalent
+5357,60,Bachelor or equivalent
+5358,60,Bachelor or equivalent
+5359,60,Bachelor or equivalent
+5360,70,Master or equivalent
+5361,70,Master or equivalent
+5362,70,Master or equivalent
+5363,70,Master or equivalent
+5364,70,Master or equivalent
+5365,70,Master or equivalent
+5366,70,Master or equivalent
+5367,70,Master or equivalent
+5368,70,Master or equivalent
+5369,70,Master or equivalent
+5370,70,Master or equivalent
+5371,70,Master or equivalent
+5372,70,Master or equivalent
+5373,70,Master or equivalent
+5374,70,Master or equivalent
+5375,70,Master or equivalent
+5376,70,Master or equivalent
+5377,70,Master or equivalent
+5378,70,Master or equivalent
+5379,70,Master or equivalent
+5380,70,Master or equivalent
+5381,70,Master or equivalent
+5382,70,Master or equivalent
+5383,70,Master or equivalent
+5384,70,Master or equivalent
+5385,70,Master or equivalent
+5386,70,Master or equivalent
+5387,70,Master or equivalent
+5388,70,Master or equivalent
+5389,70,Master or equivalent
+5390,70,Master or equivalent
+5391,70,Master or equivalent
+5392,70,Master or equivalent
+5393,70,Master or equivalent
+5394,70,Master or equivalent
+5395,70,Master or equivalent
+5396,70,Master or equivalent
+5397,70,Master or equivalent
+5398,70,Master or equivalent
+5399,80,Doctoral or equivalent
+5400,70,Master or equivalent
+5401,70,Master or equivalent
+5402,70,Master or equivalent
+5403,70,Master or equivalent
+5404,70,Master or equivalent
+5405,60,Bachelor or equivalent
+5406,70,Master or equivalent
+5407,60,Bachelor or equivalent
+5408,70,Master or equivalent
+5409,70,Master or equivalent
+5410,70,Master or equivalent
+5411,60,Bachelor or equivalent
+5412,70,Master or equivalent
+5413,70,Master or equivalent
+5414,70,Master or equivalent
+5415,70,Master or equivalent
+5416,80,Doctoral or equivalent
+5417,80,Doctoral or equivalent
+5419,70,Master or equivalent
+5420,70,Master or equivalent
+5421,70,Master or equivalent
+5422,70,Master or equivalent
+5423,70,Master or equivalent
+5424,60,Bachelor or equivalent
+5425,70,Master or equivalent
+5426,60,Bachelor or equivalent
+5427,80,Doctoral or equivalent
+5428,70,Master or equivalent
+5429,60,Bachelor or equivalent
+5430,70,Master or equivalent
+5431,60,Bachelor or equivalent
+5432,50,Short cycle tertiary
+5433,70,Master or equivalent
+5434,60,Bachelor or equivalent
+5435,80,Doctoral or equivalent
+5436,60,Bachelor or equivalent
+5437,60,Bachelor or equivalent
+5438,60,Bachelor or equivalent
+5439,60,Bachelor or equivalent
+5440,60,Bachelor or equivalent
+5441,60,Bachelor or equivalent
+5442,60,Bachelor or equivalent
+5443,30,Upper secondary
+5444,60,Bachelor or equivalent
+5445,60,Bachelor or equivalent
+5446,60,Bachelor or equivalent
+5447,60,Bachelor or equivalent
+5448,70,Master or equivalent
+5449,70,Master or equivalent
+5450,60,Bachelor or equivalent
+5451,60,Bachelor or equivalent
+5452,70,Master or equivalent
+5453,70,Master or equivalent
+5454,70,Master or equivalent
+5455,70,Master or equivalent
+5456,60,Bachelor or equivalent
+5457,60,Bachelor or equivalent
+5458,60,Bachelor or equivalent
+5459,60,Bachelor or equivalent
+5460,60,Bachelor or equivalent
+5461,60,Bachelor or equivalent
+5462,60,Bachelor or equivalent
+5463,60,Bachelor or equivalent
+5464,80,Doctoral or equivalent
+5465,70,Master or equivalent
+5466,70,Master or equivalent
+5467,60,Bachelor or equivalent
+5468,70,Master or equivalent
+5469,60,Bachelor or equivalent
+5470,70,Master or equivalent
+5471,60,Bachelor or equivalent
+5472,60,Bachelor or equivalent
+5473,60,Bachelor or equivalent
+5474,70,Master or equivalent
+5475,60,Bachelor or equivalent
+5476,60,Bachelor or equivalent
+5477,60,Bachelor or equivalent
+5478,60,Bachelor or equivalent
+5479,60,Bachelor or equivalent
+5480,80,Doctoral or equivalent
+5481,60,Bachelor or equivalent
+5482,60,Bachelor or equivalent
+5483,60,Bachelor or equivalent
+5484,60,Bachelor or equivalent
+5485,60,Bachelor or equivalent
+5486,60,Bachelor or equivalent
+5487,60,Bachelor or equivalent
+5488,60,Bachelor or equivalent
+5489,60,Bachelor or equivalent
+5490,60,Bachelor or equivalent
+5491,60,Bachelor or equivalent
+5492,60,Bachelor or equivalent
+5493,50,Short cycle tertiary
+5494,60,Bachelor or equivalent
+5495,50,Short cycle tertiary
+5496,50,Short cycle tertiary
+5497,60,Bachelor or equivalent
+5498,60,Bachelor or equivalent
+5499,60,Bachelor or equivalent
+5500,60,Bachelor or equivalent
+5501,60,Bachelor or equivalent
+5502,60,Bachelor or equivalent
+5503,60,Bachelor or equivalent
+5504,60,Bachelor or equivalent
+5508,60,Bachelor or equivalent
+5509,60,Bachelor or equivalent
+5511,60,Bachelor or equivalent
+5512,60,Bachelor or equivalent
+5513,60,Bachelor or equivalent
+5514,60,Bachelor or equivalent
+5515,60,Bachelor or equivalent
+5516,60,Bachelor or equivalent
+5517,60,Bachelor or equivalent
+5518,60,Bachelor or equivalent
+5519,60,Bachelor or equivalent
+5520,60,Bachelor or equivalent
+5521,60,Bachelor or equivalent
+5522,60,Bachelor or equivalent
+5523,60,Bachelor or equivalent
+5524,60,Bachelor or equivalent
+5525,60,Bachelor or equivalent
+5526,60,Bachelor or equivalent
+5527,60,Bachelor or equivalent
+5528,60,Bachelor or equivalent
+5529,60,Bachelor or equivalent
+5530,60,Bachelor or equivalent
+5531,60,Bachelor or equivalent
+5532,70,Master or equivalent
+5533,70,Master or equivalent
+5534,70,Master or equivalent
+5535,70,Master or equivalent
+5536,70,Master or equivalent
+5537,70,Master or equivalent
+5540,60,Bachelor or equivalent
+5541,60,Bachelor or equivalent
+5542,60,Bachelor or equivalent
+5543,60,Bachelor or equivalent
+5544,70,Master or equivalent
+5545,60,Bachelor or equivalent
+5546,60,Bachelor or equivalent
+5547,60,Bachelor or equivalent
+5550,60,Bachelor or equivalent
+5551,60,Bachelor or equivalent
+5552,60,Bachelor or equivalent
+5553,60,Bachelor or equivalent
+5554,70,Master or equivalent
+5555,60,Bachelor or equivalent
+5556,60,Bachelor or equivalent
+5557,60,Bachelor or equivalent
+5561,60,Bachelor or equivalent
+5562,60,Bachelor or equivalent
+5563,60,Bachelor or equivalent
+5564,60,Bachelor or equivalent
+5565,60,Bachelor or equivalent
+5566,60,Bachelor or equivalent
+5569,60,Bachelor or equivalent
+5571,70,Master or equivalent
+5572,70,Master or equivalent
+5575,60,Bachelor or equivalent
+5576,70,Master or equivalent
+5577,70,Master or equivalent
+5578,70,Master or equivalent
+5579,60,Bachelor or equivalent
+5580,80,Doctoral or equivalent
+5581,60,Bachelor or equivalent
+5582,60,Bachelor or equivalent
+5583,60,Bachelor or equivalent
+5586,60,Bachelor or equivalent
+5587,60,Bachelor or equivalent
+5588,70,Master or equivalent
+5589,70,Master or equivalent
+5590,70,Master or equivalent
+5591,70,Master or equivalent
+5592,70,Master or equivalent
+5593,70,Master or equivalent
+5594,70,Master or equivalent
+5595,70,Master or equivalent
+5596,70,Master or equivalent
+5597,70,Master or equivalent
+5598,70,Master or equivalent
+5599,70,Master or equivalent
+5600,60,Bachelor or equivalent
+5602,60,Bachelor or equivalent
+5603,60,Bachelor or equivalent
+5606,60,Bachelor or equivalent
+5607,60,Bachelor or equivalent
+5608,70,Master or equivalent
+5609,70,Master or equivalent
+5611,80,Doctoral or equivalent
+5612,70,Master or equivalent
+5614,60,Bachelor or equivalent
+5615,80,Doctoral or equivalent
+5616,70,Master or equivalent
+5618,80,Doctoral or equivalent
+5619,80,Doctoral or equivalent
+5620,80,Doctoral or equivalent
+5621,70,Master or equivalent
+5622,70,Master or equivalent
+5623,70,Master or equivalent
+5624,70,Master or equivalent
+5629,60,Bachelor or equivalent
+5630,50,Short cycle tertiary
+5631,50,Short cycle tertiary
+5632,50,Short cycle tertiary
+5633,50,Short cycle tertiary
+5634,60,Bachelor or equivalent
+5635,50,Short cycle tertiary
+5636,50,Short cycle tertiary
+5637,50,Short cycle tertiary
+5650,60,Bachelor or equivalent
+5651,60,Bachelor or equivalent
+5652,70,Master or equivalent
+5653,70,Master or equivalent
+5654,60,Bachelor or equivalent
+5655,60,Bachelor or equivalent
+5656,60,Bachelor or equivalent
+5657,70,Master or equivalent
+5658,70,Master or equivalent
+5661,60,Bachelor or equivalent
+5662,70,Master or equivalent
+5663,60,Bachelor or equivalent
+5666,60,Bachelor or equivalent
+5667,70,Master or equivalent
+5670,60,Bachelor or equivalent
+5671,60,Bachelor or equivalent
+5672,60,Bachelor or equivalent
+5673,60,Bachelor or equivalent
+5674,60,Bachelor or equivalent
+5675,60,Bachelor or equivalent
+5676,60,Bachelor or equivalent
+5677,60,Bachelor or equivalent
+5678,60,Bachelor or equivalent
+5679,60,Bachelor or equivalent
+5680,70,Master or equivalent
+5681,60,Bachelor or equivalent
+5682,60,Bachelor or equivalent
+5683,60,Bachelor or equivalent
+5684,60,Bachelor or equivalent
+5685,60,Bachelor or equivalent
+5686,60,Bachelor or equivalent
+5687,60,Bachelor or equivalent
+5688,60,Bachelor or equivalent
+5689,60,Bachelor or equivalent
+5690,60,Bachelor or equivalent
+5691,60,Bachelor or equivalent
+5692,60,Bachelor or equivalent
+5693,60,Bachelor or equivalent
+5694,60,Bachelor or equivalent
+5695,60,Bachelor or equivalent
+5696,60,Bachelor or equivalent
+5697,60,Bachelor or equivalent
+5698,60,Bachelor or equivalent
+5699,60,Bachelor or equivalent
+5700,60,Bachelor or equivalent
+5701,60,Bachelor or equivalent
+5702,60,Bachelor or equivalent
+5703,70,Master or equivalent
+5704,60,Bachelor or equivalent
+5705,80,Doctoral or equivalent
+5706,60,Bachelor or equivalent
+5707,60,Bachelor or equivalent
+5708,70,Master or equivalent
+5709,60,Bachelor or equivalent
+5710,60,Bachelor or equivalent
+5711,60,Bachelor or equivalent
+5712,60,Bachelor or equivalent
+5713,60,Bachelor or equivalent
+5714,60,Bachelor or equivalent
+5715,60,Bachelor or equivalent
+5716,60,Bachelor or equivalent
+5717,70,Master or equivalent
+5718,60,Bachelor or equivalent
+5719,60,Bachelor or equivalent
+5720,60,Bachelor or equivalent
+5721,60,Bachelor or equivalent
+5722,60,Bachelor or equivalent
+5723,60,Bachelor or equivalent
+5724,60,Bachelor or equivalent
+5725,60,Bachelor or equivalent
+5726,60,Bachelor or equivalent
+5727,60,Bachelor or equivalent
+5728,60,Bachelor or equivalent
+5729,60,Bachelor or equivalent
+5730,60,Bachelor or equivalent
+5731,60,Bachelor or equivalent
+5732,60,Bachelor or equivalent
+5733,60,Bachelor or equivalent
+5734,60,Bachelor or equivalent
+5735,60,Bachelor or equivalent
+5736,60,Bachelor or equivalent
+5737,70,Master or equivalent
+5738,70,Master or equivalent
+5739,70,Master or equivalent
+5740,70,Master or equivalent
+5741,70,Master or equivalent
+5742,70,Master or equivalent
+5743,70,Master or equivalent
+5744,70,Master or equivalent
+5745,80,Doctoral or equivalent
+5746,60,Bachelor or equivalent
+5747,60,Bachelor or equivalent
+5748,60,Bachelor or equivalent
+5749,60,Bachelor or equivalent
+5750,70,Master or equivalent
+5751,70,Master or equivalent
+5752,70,Master or equivalent
+5753,70,Master or equivalent
+5754,70,Master or equivalent
+5755,60,Bachelor or equivalent
+5756,70,Master or equivalent
+5757,70,Master or equivalent
+5758,70,Master or equivalent
+5759,70,Master or equivalent
+5761,70,Master or equivalent
+5762,70,Master or equivalent
+5763,70,Master or equivalent
+5764,60,Bachelor or equivalent
+5766,60,Bachelor or equivalent
+5767,60,Bachelor or equivalent
+5768,60,Bachelor or equivalent
+5769,60,Bachelor or equivalent
+5770,70,Master or equivalent
+5771,70,Master or equivalent
+5772,70,Master or equivalent
+5773,70,Master or equivalent
+5774,70,Master or equivalent
+5776,60,Bachelor or equivalent
+5777,60,Bachelor or equivalent
+5778,60,Bachelor or equivalent
+5779,70,Master or equivalent
+5780,60,Bachelor or equivalent
+5781,60,Bachelor or equivalent
+5782,70,Master or equivalent
+5783,60,Bachelor or equivalent
+5784,70,Master or equivalent
+5785,70,Master or equivalent
+5786,70,Master or equivalent
+5787,70,Master or equivalent
+5788,70,Master or equivalent
+5789,70,Master or equivalent
+5790,60,Bachelor or equivalent
+5791,60,Bachelor or equivalent
+5792,70,Master or equivalent
+5793,70,Master or equivalent
+5794,70,Master or equivalent
+5795,70,Master or equivalent
+5796,70,Master or equivalent
+5797,60,Bachelor or equivalent
+5798,70,Master or equivalent
+5799,60,Bachelor or equivalent
+5801,60,Bachelor or equivalent
+5802,60,Bachelor or equivalent
+5803,60,Bachelor or equivalent
+5804,60,Bachelor or equivalent
+5805,60,Bachelor or equivalent
+5806,60,Bachelor or equivalent
+5807,60,Bachelor or equivalent
+5808,60,Bachelor or equivalent
+5809,70,Master or equivalent
+5810,70,Master or equivalent
+5811,70,Master or equivalent
+5812,70,Master or equivalent
+5813,60,Bachelor or equivalent
+5814,60,Bachelor or equivalent
+5816,60,Bachelor or equivalent
+5817,60,Bachelor or equivalent
+5818,60,Bachelor or equivalent
+5819,60,Bachelor or equivalent
+5820,70,Master or equivalent
+5821,70,Master or equivalent
+5822,70,Master or equivalent
+5823,70,Master or equivalent
+5824,70,Master or equivalent
+5825,70,Master or equivalent
+5826,60,Bachelor or equivalent
+5827,60,Bachelor or equivalent
+5828,60,Bachelor or equivalent
+5829,60,Bachelor or equivalent
+5830,50,Short cycle tertiary
+5831,60,Bachelor or equivalent
+5832,70,Master or equivalent
+5833,60,Bachelor or equivalent
+5834,60,Bachelor or equivalent
+5836,60,Bachelor or equivalent
+5837,60,Bachelor or equivalent
+5838,60,Bachelor or equivalent
+5839,80,Doctoral or equivalent
+5840,70,Master or equivalent
+5841,70,Master or equivalent
+5842,70,Master or equivalent
+5843,70,Master or equivalent
+5844,70,Master or equivalent
+5846,60,Bachelor or equivalent
+5847,60,Bachelor or equivalent
+5848,60,Bachelor or equivalent
+5849,60,Bachelor or equivalent
+5850,60,Bachelor or equivalent
+5851,60,Bachelor or equivalent
+5852,60,Bachelor or equivalent
+5853,80,Doctoral or equivalent
+5854,60,Bachelor or equivalent
+5855,60,Bachelor or equivalent
+5856,60,Bachelor or equivalent
+5857,60,Bachelor or equivalent
+5858,70,Master or equivalent
+5859,60,Bachelor or equivalent
+5860,60,Bachelor or equivalent
+5865,60,Bachelor or equivalent
+5866,60,Bachelor or equivalent
+5867,60,Bachelor or equivalent
+5868,60,Bachelor or equivalent
+5869,60,Bachelor or equivalent
+5870,60,Bachelor or equivalent
+5871,60,Bachelor or equivalent
+5872,60,Bachelor or equivalent
+5873,60,Bachelor or equivalent
+5874,30,Upper secondary
+5875,70,Master or equivalent
+5876,30,Upper secondary
+5877,70,Master or equivalent
+5878,30,Upper secondary
+5879,30,Upper secondary
+5880,70,Master or equivalent
+5881,30,Upper secondary
+5882,30,Upper secondary
+5883,30,Upper secondary
+5884,30,Upper secondary
+5885,70,Master or equivalent
+5886,70,Master or equivalent
+5887,60,Bachelor or equivalent
+5888,60,Bachelor or equivalent
+5889,70,Master or equivalent
+5890,70,Master or equivalent
+5891,60,Bachelor or equivalent
+5892,70,Master or equivalent
+5893,60,Bachelor or equivalent
+5894,70,Master or equivalent
+5895,50,Short cycle tertiary
+5896,60,Bachelor or equivalent
+5897,70,Master or equivalent
+5898,70,Master or equivalent
+5899,60,Bachelor or equivalent
+5900,70,Master or equivalent
+5901,70,Master or equivalent
+5902,70,Master or equivalent
+5903,70,Master or equivalent
+5904,50,Short cycle tertiary
+5905,60,Bachelor or equivalent
+5906,70,Master or equivalent
+5907,60,Bachelor or equivalent
+5908,60,Bachelor or equivalent
+5909,70,Master or equivalent
+5910,50,Short cycle tertiary
+5911,60,Bachelor or equivalent
+5912,60,Bachelor or equivalent
+5913,70,Master or equivalent
+5914,60,Bachelor or equivalent
+5915,60,Bachelor or equivalent
+5916,70,Master or equivalent
+5917,70,Master or equivalent
+5918,70,Master or equivalent
+5919,80,Doctoral or equivalent
+5921,60,Bachelor or equivalent
+5922,70,Master or equivalent
+5923,60,Bachelor or equivalent
+5924,70,Master or equivalent
+5925,70,Master or equivalent
+5926,70,Master or equivalent
+5927,60,Bachelor or equivalent
+5928,60,Bachelor or equivalent
+5929,70,Master or equivalent
+5930,60,Bachelor or equivalent
+5931,60,Bachelor or equivalent
+5932,60,Bachelor or equivalent
+5933,60,Bachelor or equivalent
+5934,60,Bachelor or equivalent
+5935,60,Bachelor or equivalent
+5936,60,Bachelor or equivalent
+5937,60,Bachelor or equivalent
+5938,60,Bachelor or equivalent
+5939,60,Bachelor or equivalent
+5940,60,Bachelor or equivalent
+5941,60,Bachelor or equivalent
+5942,60,Bachelor or equivalent
+5943,60,Bachelor or equivalent
+5944,60,Bachelor or equivalent
+5945,60,Bachelor or equivalent
+5946,60,Bachelor or equivalent
+5947,60,Bachelor or equivalent
+5948,60,Bachelor or equivalent
+5949,60,Bachelor or equivalent
+5950,60,Bachelor or equivalent
+5951,60,Bachelor or equivalent
+5952,60,Bachelor or equivalent
+5953,60,Bachelor or equivalent
+5954,60,Bachelor or equivalent
+5955,60,Bachelor or equivalent
+5956,60,Bachelor or equivalent
+5957,60,Bachelor or equivalent
+5958,60,Bachelor or equivalent
+5959,60,Bachelor or equivalent
+5960,60,Bachelor or equivalent
+5961,60,Bachelor or equivalent
+5962,70,Master or equivalent
+5963,70,Master or equivalent
+5964,70,Master or equivalent
+5965,70,Master or equivalent
+5966,70,Master or equivalent
+5967,70,Master or equivalent
+5968,70,Master or equivalent
+5969,70,Master or equivalent
+5970,60,Bachelor or equivalent
+5971,60,Bachelor or equivalent
+5972,60,Bachelor or equivalent
+5973,60,Bachelor or equivalent
+5974,60,Bachelor or equivalent
+5975,60,Bachelor or equivalent
+5976,60,Bachelor or equivalent
+5977,60,Bachelor or equivalent
+5978,60,Bachelor or equivalent
+5979,60,Bachelor or equivalent
+5980,60,Bachelor or equivalent
+5981,60,Bachelor or equivalent
+5982,60,Bachelor or equivalent
+5983,60,Bachelor or equivalent
+5984,60,Bachelor or equivalent
+5985,60,Bachelor or equivalent
+5986,60,Bachelor or equivalent
+5987,60,Bachelor or equivalent
+5988,60,Bachelor or equivalent
+5989,60,Bachelor or equivalent
+5990,60,Bachelor or equivalent
+5991,60,Bachelor or equivalent
+5992,60,Bachelor or equivalent
+5993,60,Bachelor or equivalent
+5994,60,Bachelor or equivalent
+5995,60,Bachelor or equivalent
+5996,70,Master or equivalent
+5997,60,Bachelor or equivalent
+5998,60,Bachelor or equivalent
+6000,70,Master or equivalent
+6001,60,Bachelor or equivalent
+6002,60,Bachelor or equivalent
+6003,60,Bachelor or equivalent
+6004,60,Bachelor or equivalent
+6005,60,Bachelor or equivalent
+6006,60,Bachelor or equivalent
+6007,60,Bachelor or equivalent
+6008,60,Bachelor or equivalent
+6011,70,Master or equivalent
+6012,70,Master or equivalent
+6013,70,Master or equivalent
+6014,70,Master or equivalent
+6015,70,Master or equivalent
+6016,70,Master or equivalent
+6017,60,Bachelor or equivalent
+6018,60,Bachelor or equivalent
+6019,70,Master or equivalent
+6020,50,Short cycle tertiary
+6021,50,Short cycle tertiary
+6022,30,Upper secondary
+6023,30,Upper secondary
+6024,30,Upper secondary
+6025,30,Upper secondary
+6026,50,Short cycle tertiary
+6027,60,Bachelor or equivalent
+6028,70,Master or equivalent
+6029,70,Master or equivalent
+6030,60,Bachelor or equivalent
+6031,70,Master or equivalent
+6032,70,Master or equivalent
+6033,70,Master or equivalent
+6034,70,Master or equivalent
+6035,70,Master or equivalent
+6036,70,Master or equivalent
+6037,70,Master or equivalent
+6038,70,Master or equivalent
+6039,70,Master or equivalent
+6040,60,Bachelor or equivalent
+6041,70,Master or equivalent
+6042,70,Master or equivalent
+6043,70,Master or equivalent
+6045,60,Bachelor or equivalent
+6046,60,Bachelor or equivalent
+6047,60,Bachelor or equivalent
+6048,60,Bachelor or equivalent
+6049,70,Master or equivalent
+6050,60,Bachelor or equivalent
+6051,60,Bachelor or equivalent
+6052,70,Master or equivalent
+6055,70,Master or equivalent
+6062,70,Master or equivalent
+6064,70,Master or equivalent
+6065,70,Master or equivalent
+6071,70,Master or equivalent
+6072,70,Master or equivalent
+6076,70,Master or equivalent
+6077,70,Master or equivalent
+6081,70,Master or equivalent
+6082,70,Master or equivalent
+6083,60,Bachelor or equivalent
+6084,60,Bachelor or equivalent
+6086,70,Master or equivalent
+6087,70,Master or equivalent
+6100,70,Master or equivalent
+6101,60,Bachelor or equivalent
+6102,60,Bachelor or equivalent
+6103,60,Bachelor or equivalent
+6104,70,Master or equivalent
+6105,70,Master or equivalent
+6106,70,Master or equivalent
+6107,60,Bachelor or equivalent
+6108,60,Bachelor or equivalent
+6109,60,Bachelor or equivalent
+6110,60,Bachelor or equivalent
+6111,70,Master or equivalent
+6112,70,Master or equivalent
+6113,70,Master or equivalent
+6114,70,Master or equivalent
+6115,60,Bachelor or equivalent
+6116,60,Bachelor or equivalent
+6117,60,Bachelor or equivalent
+6118,60,Bachelor or equivalent
+6119,70,Master or equivalent
+6120,70,Master or equivalent
+6121,70,Master or equivalent
+6122,70,Master or equivalent
+6125,70,Master or equivalent
+6126,70,Master or equivalent
+6127,70,Master or equivalent
+6128,70,Master or equivalent
+6129,70,Master or equivalent
+6130,70,Master or equivalent
+6131,70,Master or equivalent
+6132,70,Master or equivalent
+6133,70,Master or equivalent
+6134,70,Master or equivalent
+6135,70,Master or equivalent
+6136,70,Master or equivalent
+6137,70,Master or equivalent
+6138,70,Master or equivalent
+6139,70,Master or equivalent
+6140,70,Master or equivalent
+6141,70,Master or equivalent
+6142,70,Master or equivalent
+6143,70,Master or equivalent
+6144,70,Master or equivalent
+6145,70,Master or equivalent
+6146,70,Master or equivalent
+6147,70,Master or equivalent
+6148,70,Master or equivalent
+6149,70,Master or equivalent
+6150,70,Master or equivalent
+6151,60,Bachelor or equivalent
+6152,60,Bachelor or equivalent
+6153,70,Master or equivalent
+6154,60,Bachelor or equivalent
+6155,60,Bachelor or equivalent
+6156,60,Bachelor or equivalent
+6157,60,Bachelor or equivalent
+6158,70,Master or equivalent
+6159,70,Master or equivalent
+6160,70,Master or equivalent
+6161,60,Bachelor or equivalent
+6162,60,Bachelor or equivalent
+6163,60,Bachelor or equivalent
+6164,60,Bachelor or equivalent
+6165,60,Bachelor or equivalent
+6166,60,Bachelor or equivalent
+6167,70,Master or equivalent
+6168,70,Master or equivalent
+6169,70,Master or equivalent
+6170,70,Master or equivalent
+6171,70,Master or equivalent
+6172,70,Master or equivalent
+6173,70,Master or equivalent
+6174,70,Master or equivalent
+6175,70,Master or equivalent
+6176,70,Master or equivalent
+6177,70,Master or equivalent
+6178,70,Master or equivalent
+6179,70,Master or equivalent
+6181,70,Master or equivalent
+6182,70,Master or equivalent
+6183,70,Master or equivalent
+6184,70,Master or equivalent
+6185,70,Master or equivalent
+6186,70,Master or equivalent
+6187,70,Master or equivalent
+6188,70,Master or equivalent
+6189,70,Master or equivalent
+6200,70,Master or equivalent
+6201,60,Bachelor or equivalent
+6202,70,Master or equivalent
+6203,60,Bachelor or equivalent
+6204,70,Master or equivalent
+6205,60,Bachelor or equivalent
+6206,70,Master or equivalent
+6235,70,Master or equivalent
+6242,60,Bachelor or equivalent
+6243,70,Master or equivalent
+6244,70,Master or equivalent
+6245,70,Master or equivalent
+6246,70,Master or equivalent
+6247,70,Master or equivalent
+6248,70,Master or equivalent
+6260,70,Master or equivalent
+6261,70,Master or equivalent
+6262,70,Master or equivalent
+6263,70,Master or equivalent
+6264,70,Master or equivalent
+6265,70,Master or equivalent
+6266,70,Master or equivalent
+6267,70,Master or equivalent
+6268,70,Master or equivalent
+6269,70,Master or equivalent
+6270,70,Master or equivalent
+6271,70,Master or equivalent
+6282,70,Master or equivalent
+6285,70,Master or equivalent
+6296,70,Master or equivalent
+6297,70,Master or equivalent
+6298,60,Bachelor or equivalent
+6299,60,Bachelor or equivalent
+6301,70,Master or equivalent
+6313,70,Master or equivalent
+6321,70,Master or equivalent
+6322,70,Master or equivalent
+6354,60,Bachelor or equivalent
+6355,60,Bachelor or equivalent
+6356,60,Bachelor or equivalent
+6357,60,Bachelor or equivalent
+6358,60,Bachelor or equivalent
+6359,70,Master or equivalent
+6360,70,Master or equivalent
+6361,70,Master or equivalent
+6380,70,Master or equivalent
+6381,70,Master or equivalent
+6382,70,Master or equivalent
+6383,70,Master or equivalent
+6384,70,Master or equivalent
+6385,70,Master or equivalent
+6393,70,Master or equivalent
+6394,70,Master or equivalent
+6395,70,Master or equivalent
+6396,70,Master or equivalent
+6397,70,Master or equivalent
+6398,70,Master or equivalent
+6399,70,Master or equivalent
+6401,70,Master or equivalent
+6402,70,Master or equivalent
+6403,60,Bachelor or equivalent
+6404,60,Bachelor or equivalent
+6405,60,Bachelor or equivalent
+6406,60,Bachelor or equivalent
+6407,70,Master or equivalent
+6408,70,Master or equivalent
+6409,70,Master or equivalent
+6410,70,Master or equivalent
+6413,70,Master or equivalent
+6414,70,Master or equivalent
+6415,70,Master or equivalent
+6416,70,Master or equivalent
+6417,70,Master or equivalent
+6418,70,Master or equivalent
+6419,70,Master or equivalent
+6420,70,Master or equivalent
+6421,70,Master or equivalent
+6424,70,Master or equivalent
+6425,70,Master or equivalent
+6426,70,Master or equivalent
+6427,70,Master or equivalent
+6428,70,Master or equivalent
+6452,70,Master or equivalent
+6454,70,Master or equivalent
+6455,70,Master or equivalent
+6456,70,Master or equivalent
+6457,70,Master or equivalent
+6458,70,Master or equivalent
+6459,70,Master or equivalent
+6461,70,Master or equivalent
+6462,70,Master or equivalent
+6463,60,Bachelor or equivalent
+6464,70,Master or equivalent
+6465,70,Master or equivalent
+6466,70,Master or equivalent
+6467,70,Master or equivalent
+6468,70,Master or equivalent
+6469,70,Master or equivalent
+6470,70,Master or equivalent
+6471,70,Master or equivalent
+6490,70,Master or equivalent
+6491,70,Master or equivalent
+6492,70,Master or equivalent
+6493,70,Master or equivalent
+6494,70,Master or equivalent
+6495,60,Bachelor or equivalent
+6496,60,Bachelor or equivalent
+6497,60,Bachelor or equivalent
+6500,60,Bachelor or equivalent
+6501,70,Master or equivalent
+6502,60,Bachelor or equivalent
+6503,70,Master or equivalent
+6504,60,Bachelor or equivalent
+6505,60,Bachelor or equivalent
+6506,60,Bachelor or equivalent
+6507,60,Bachelor or equivalent
+6508,60,Bachelor or equivalent
+6509,60,Bachelor or equivalent
+6510,60,Bachelor or equivalent
+6511,70,Master or equivalent
+6512,60,Bachelor or equivalent
+6513,70,Master or equivalent
+6514,70,Master or equivalent
+6515,70,Master or equivalent
+6516,60,Bachelor or equivalent
+6517,70,Master or equivalent
+6518,60,Bachelor or equivalent
+6519,70,Master or equivalent
+6520,60,Bachelor or equivalent
+6521,70,Master or equivalent
+6522,60,Bachelor or equivalent
+6523,70,Master or equivalent
+6524,60,Bachelor or equivalent
+6525,70,Master or equivalent
+6526,60,Bachelor or equivalent
+6527,70,Master or equivalent
+6528,60,Bachelor or equivalent
+6529,70,Master or equivalent
+6530,60,Bachelor or equivalent
+6531,70,Master or equivalent
+6532,60,Bachelor or equivalent
+6533,70,Master or equivalent
+6534,60,Bachelor or equivalent
+6535,70,Master or equivalent
+6536,60,Bachelor or equivalent
+6537,70,Master or equivalent
+6538,60,Bachelor or equivalent
+6539,70,Master or equivalent
+6540,60,Bachelor or equivalent
+6541,70,Master or equivalent
+6542,60,Bachelor or equivalent
+6543,70,Master or equivalent
+6544,60,Bachelor or equivalent
+6545,70,Master or equivalent
+6546,60,Bachelor or equivalent
+6547,70,Master or equivalent
+6548,60,Bachelor or equivalent
+6549,70,Master or equivalent
+6550,60,Bachelor or equivalent
+6551,70,Master or equivalent
+6552,60,Bachelor or equivalent
+6553,70,Master or equivalent
+6554,60,Bachelor or equivalent
+6555,60,Bachelor or equivalent
+6556,60,Bachelor or equivalent
+6557,70,Master or equivalent
+6558,60,Bachelor or equivalent
+6559,60,Bachelor or equivalent
+6560,60,Bachelor or equivalent
+6561,60,Bachelor or equivalent
+6562,60,Bachelor or equivalent
+6563,70,Master or equivalent
+6564,60,Bachelor or equivalent
+6565,70,Master or equivalent
+6566,60,Bachelor or equivalent
+6567,70,Master or equivalent
+6568,60,Bachelor or equivalent
+6569,70,Master or equivalent
+6570,60,Bachelor or equivalent
+6571,70,Master or equivalent
+6572,70,Master or equivalent
+6573,70,Master or equivalent
+6574,60,Bachelor or equivalent
+6575,70,Master or equivalent
+6576,60,Bachelor or equivalent
+6577,70,Master or equivalent
+6578,60,Bachelor or equivalent
+6579,70,Master or equivalent
+6580,60,Bachelor or equivalent
+6581,70,Master or equivalent
+6582,60,Bachelor or equivalent
+6583,70,Master or equivalent
+6584,60,Bachelor or equivalent
+6585,70,Master or equivalent
+6586,60,Bachelor or equivalent
+6587,70,Master or equivalent
+6588,60,Bachelor or equivalent
+6589,70,Master or equivalent
+6590,60,Bachelor or equivalent
+6591,70,Master or equivalent
+6592,60,Bachelor or equivalent
+6593,70,Master or equivalent
+6594,60,Bachelor or equivalent
+6595,70,Master or equivalent
+6596,60,Bachelor or equivalent
+6597,70,Master or equivalent
+6598,60,Bachelor or equivalent
+6599,70,Master or equivalent
+6600,60,Bachelor or equivalent
+6601,70,Master or equivalent
+6602,60,Bachelor or equivalent
+6603,70,Master or equivalent
+6604,60,Bachelor or equivalent
+6605,70,Master or equivalent
+6606,60,Bachelor or equivalent
+6607,70,Master or equivalent
+6608,60,Bachelor or equivalent
+6609,70,Master or equivalent
+6610,60,Bachelor or equivalent
+6611,70,Master or equivalent
+6612,60,Bachelor or equivalent
+6613,70,Master or equivalent
+6614,60,Bachelor or equivalent
+6615,70,Master or equivalent
+6616,60,Bachelor or equivalent
+6617,70,Master or equivalent
+6618,60,Bachelor or equivalent
+6619,70,Master or equivalent
+6620,60,Bachelor or equivalent
+6621,70,Master or equivalent
+6622,60,Bachelor or equivalent
+6623,70,Master or equivalent
+6624,60,Bachelor or equivalent
+6625,70,Master or equivalent
+6626,60,Bachelor or equivalent
+6627,70,Master or equivalent
+6628,60,Bachelor or equivalent
+6629,70,Master or equivalent
+6630,60,Bachelor or equivalent
+6631,70,Master or equivalent
+6632,60,Bachelor or equivalent
+6633,70,Master or equivalent
+6634,60,Bachelor or equivalent
+6635,60,Bachelor or equivalent
+6636,60,Bachelor or equivalent
+6637,70,Master or equivalent
+6638,60,Bachelor or equivalent
+6639,70,Master or equivalent
+6640,60,Bachelor or equivalent
+6641,70,Master or equivalent
+6642,60,Bachelor or equivalent
+6643,70,Master or equivalent
+6644,60,Bachelor or equivalent
+6645,70,Master or equivalent
+6646,60,Bachelor or equivalent
+6647,70,Master or equivalent
+6648,60,Bachelor or equivalent
+6649,70,Master or equivalent
+6650,60,Bachelor or equivalent
+6651,70,Master or equivalent
+6652,60,Bachelor or equivalent
+6653,70,Master or equivalent
+6654,60,Bachelor or equivalent
+6655,70,Master or equivalent
+6656,60,Bachelor or equivalent
+6657,70,Master or equivalent
+6658,60,Bachelor or equivalent
+6659,70,Master or equivalent
+6660,60,Bachelor or equivalent
+6661,70,Master or equivalent
+6662,60,Bachelor or equivalent
+6663,60,Bachelor or equivalent
+6664,70,Master or equivalent
+6665,60,Bachelor or equivalent
+6666,60,Bachelor or equivalent
+6667,70,Master or equivalent
+6668,60,Bachelor or equivalent
+6669,70,Master or equivalent
+6670,60,Bachelor or equivalent
+6671,70,Master or equivalent
+6672,60,Bachelor or equivalent
+6673,60,Bachelor or equivalent
+6674,60,Bachelor or equivalent
+6675,60,Bachelor or equivalent
+6676,60,Bachelor or equivalent
+6677,70,Master or equivalent
+6678,60,Bachelor or equivalent
+6679,60,Bachelor or equivalent
+6680,60,Bachelor or equivalent
+6681,60,Bachelor or equivalent
+6682,60,Bachelor or equivalent
+6683,60,Bachelor or equivalent
+6684,60,Bachelor or equivalent
+6685,60,Bachelor or equivalent
+6686,60,Bachelor or equivalent
+6687,60,Bachelor or equivalent
+6688,60,Bachelor or equivalent
+6689,60,Bachelor or equivalent
+6690,60,Bachelor or equivalent
+6691,60,Bachelor or equivalent
+6692,60,Bachelor or equivalent
+6693,60,Bachelor or equivalent
+6694,60,Bachelor or equivalent
+6695,60,Bachelor or equivalent
+6696,60,Bachelor or equivalent
+6697,60,Bachelor or equivalent
+6698,60,Bachelor or equivalent
+6699,70,Master or equivalent
+6700,70,Master or equivalent
+6701,70,Master or equivalent
+6702,70,Master or equivalent
+6703,70,Master or equivalent
+6704,70,Master or equivalent
+6705,70,Master or equivalent
+6706,70,Master or equivalent
+6707,70,Master or equivalent
+6708,70,Master or equivalent
+6709,70,Master or equivalent
+6710,70,Master or equivalent
+6711,70,Master or equivalent
+6712,70,Master or equivalent
+6713,70,Master or equivalent
+6714,70,Master or equivalent
+6715,70,Master or equivalent
+6716,70,Master or equivalent
+6717,70,Master or equivalent
+6718,70,Master or equivalent
+6719,70,Master or equivalent
+6720,70,Master or equivalent
+6721,70,Master or equivalent
+6722,70,Master or equivalent
+6723,70,Master or equivalent
+6724,70,Master or equivalent
+6725,70,Master or equivalent
+6726,70,Master or equivalent
+6727,70,Master or equivalent
+6728,70,Master or equivalent
+6729,70,Master or equivalent
+6730,70,Master or equivalent
+6731,70,Master or equivalent
+6732,70,Master or equivalent
+6733,70,Master or equivalent
+6734,70,Master or equivalent
+6735,70,Master or equivalent
+6736,70,Master or equivalent
+6737,70,Master or equivalent
+6738,70,Master or equivalent
+6739,70,Master or equivalent
+6740,70,Master or equivalent
+6741,70,Master or equivalent
+6742,70,Master or equivalent
+6743,70,Master or equivalent
+6744,70,Master or equivalent
+6745,70,Master or equivalent
+6746,70,Master or equivalent
+6747,70,Master or equivalent
+6748,70,Master or equivalent
+6749,70,Master or equivalent
+6750,70,Master or equivalent
+6751,70,Master or equivalent
+6753,70,Master or equivalent
+6754,70,Master or equivalent
+6757,70,Master or equivalent
+6758,70,Master or equivalent
+6760,70,Master or equivalent
+6762,70,Master or equivalent
+6763,70,Master or equivalent
+6765,70,Master or equivalent
+6766,70,Master or equivalent
+6767,70,Master or equivalent
+6768,70,Master or equivalent
+6769,70,Master or equivalent
+6771,70,Master or equivalent
+6773,70,Master or equivalent
+6774,70,Master or equivalent
+6775,70,Master or equivalent
+6777,70,Master or equivalent
+6778,70,Master or equivalent
+6779,70,Master or equivalent
+6781,70,Master or equivalent
+6782,70,Master or equivalent
+6783,70,Master or equivalent
+6785,70,Master or equivalent
+6786,70,Master or equivalent
+6787,70,Master or equivalent
+6789,70,Master or equivalent
+6790,70,Master or equivalent
+6791,70,Master or equivalent
+6793,70,Master or equivalent
+6795,70,Master or equivalent
+6797,70,Master or equivalent
+6800,70,Master or equivalent
+6801,70,Master or equivalent
+6802,70,Master or equivalent
+6803,70,Master or equivalent
+6804,70,Master or equivalent
+6805,70,Master or equivalent
+6806,70,Master or equivalent
+6807,70,Master or equivalent
+6808,70,Master or equivalent
+6809,70,Master or equivalent
+6810,60,Bachelor or equivalent
+6811,70,Master or equivalent
+6813,70,Master or equivalent
+6814,70,Master or equivalent
+6815,70,Master or equivalent
+6816,70,Master or equivalent
+6817,70,Master or equivalent
+6818,70,Master or equivalent
+6819,70,Master or equivalent
+6820,70,Master or equivalent
+6821,70,Master or equivalent
+6822,70,Master or equivalent
+6823,70,Master or equivalent
+6824,70,Master or equivalent
+6825,70,Master or equivalent
+6827,70,Master or equivalent
+6829,70,Master or equivalent
+6831,70,Master or equivalent
+6832,70,Master or equivalent
+6833,70,Master or equivalent
+6836,70,Master or equivalent
+6837,70,Master or equivalent
+6838,70,Master or equivalent
+6839,70,Master or equivalent
+6840,70,Master or equivalent
+6841,70,Master or equivalent
+6842,70,Master or equivalent
+6843,70,Master or equivalent
+6845,70,Master or equivalent
+6846,70,Master or equivalent
+6847,70,Master or equivalent
+6849,70,Master or equivalent
+6850,70,Master or equivalent
+6851,70,Master or equivalent
+6853,70,Master or equivalent
+6855,70,Master or equivalent
+6857,70,Master or equivalent
+6859,70,Master or equivalent
+6860,70,Master or equivalent
+6861,70,Master or equivalent
+6862,70,Master or equivalent
+6863,70,Master or equivalent
+6864,70,Master or equivalent
+6865,70,Master or equivalent
+6867,70,Master or equivalent
+6868,70,Master or equivalent
+6869,70,Master or equivalent
+6870,70,Master or equivalent
+6871,70,Master or equivalent
+6872,70,Master or equivalent
+6873,70,Master or equivalent
+6874,70,Master or equivalent
+6875,70,Master or equivalent
+6876,70,Master or equivalent
+6877,70,Master or equivalent
+6878,70,Master or equivalent
+6880,70,Master or equivalent
+6881,70,Master or equivalent
+6882,70,Master or equivalent
+6885,70,Master or equivalent
+6886,70,Master or equivalent
+6887,70,Master or equivalent
+6888,70,Master or equivalent
+6890,70,Master or equivalent
+6891,70,Master or equivalent
+6892,70,Master or equivalent
+6893,70,Master or equivalent
+6894,70,Master or equivalent
+6895,70,Master or equivalent
+6896,70,Master or equivalent
+6897,70,Master or equivalent
+6898,70,Master or equivalent
+6900,70,Master or equivalent
+6901,70,Master or equivalent
+6902,70,Master or equivalent
+6903,70,Master or equivalent
+6904,70,Master or equivalent
+6905,70,Master or equivalent
+6906,70,Master or equivalent
+6908,70,Master or equivalent
+6910,70,Master or equivalent
+6912,70,Master or equivalent
+6913,70,Master or equivalent
+6914,70,Master or equivalent
+6915,70,Master or equivalent
+6920,70,Master or equivalent
+6925,70,Master or equivalent
+6930,70,Master or equivalent
+6940,70,Master or equivalent
+6941,70,Master or equivalent
+6942,70,Master or equivalent
+6987,70,Master or equivalent
+6990,70,Master or equivalent
+6991,70,Master or equivalent
+6992,70,Master or equivalent
+6993,70,Master or equivalent
+7003,70,Master or equivalent
+7004,70,Master or equivalent
+7005,70,Master or equivalent
+7006,60,Bachelor or equivalent
+7007,60,Bachelor or equivalent
+7008,60,Bachelor or equivalent
+7009,60,Bachelor or equivalent
+7011,70,Master or equivalent
+7012,70,Master or equivalent
+7013,60,Bachelor or equivalent
+7014,60,Bachelor or equivalent
+7015,60,Bachelor or equivalent
+7016,60,Bachelor or equivalent
+7017,60,Bachelor or equivalent
+7018,60,Bachelor or equivalent
+7019,60,Bachelor or equivalent
+7020,60,Bachelor or equivalent
+7021,70,Master or equivalent
+7022,70,Master or equivalent
+7023,70,Master or equivalent
+7024,70,Master or equivalent
+7025,70,Master or equivalent
+7026,70,Master or equivalent
+7027,70,Master or equivalent
+7028,70,Master or equivalent
+7030,80,Doctoral or equivalent
+7045,70,Master or equivalent
+7050,80,Doctoral or equivalent
+7061,60,Bachelor or equivalent
+7062,60,Bachelor or equivalent
+7063,70,Master or equivalent
+7065,70,Master or equivalent
+7070,80,Doctoral or equivalent
+7079,70,Master or equivalent
+7081,60,Bachelor or equivalent
+7085,70,Master or equivalent
+7086,70,Master or equivalent
+7090,80,Doctoral or equivalent
+7100,60,Bachelor or equivalent
+7101,70,Master or equivalent
+7102,70,Master or equivalent
+7103,60,Bachelor or equivalent
+7104,60,Bachelor or equivalent
+7105,70,Master or equivalent
+7106,70,Master or equivalent
+7107,70,Master or equivalent
+7108,60,Bachelor or equivalent
+7109,60,Bachelor or equivalent
+7110,70,Master or equivalent
+7111,70,Master or equivalent
+7112,70,Master or equivalent
+7113,70,Master or equivalent
+7114,70,Master or equivalent
+7115,70,Master or equivalent
+7116,70,Master or equivalent
+7117,70,Master or equivalent
+7118,70,Master or equivalent
+7119,70,Master or equivalent
+7120,80,Doctoral or equivalent
+7121,60,Bachelor or equivalent
+7122,60,Bachelor or equivalent
+7123,60,Bachelor or equivalent
+7124,60,Bachelor or equivalent
+7125,60,Bachelor or equivalent
+7126,60,Bachelor or equivalent
+7127,60,Bachelor or equivalent
+7128,60,Bachelor or equivalent
+7129,60,Bachelor or equivalent
+7131,60,Bachelor or equivalent
+7132,60,Bachelor or equivalent
+7133,70,Master or equivalent
+7134,60,Bachelor or equivalent
+7135,70,Master or equivalent
+7136,70,Master or equivalent
+7137,60,Bachelor or equivalent
+7138,70,Master or equivalent
+7139,70,Master or equivalent
+7140,80,Doctoral or equivalent
+7141,70,Master or equivalent
+7142,70,Master or equivalent
+7143,70,Master or equivalent
+7144,70,Master or equivalent
+7145,70,Master or equivalent
+7146,70,Master or equivalent
+7147,70,Master or equivalent
+7148,70,Master or equivalent
+7149,60,Bachelor or equivalent
+7151,70,Master or equivalent
+7152,60,Bachelor or equivalent
+7153,60,Bachelor or equivalent
+7154,70,Master or equivalent
+7155,70,Master or equivalent
+7156,60,Bachelor or equivalent
+7157,60,Bachelor or equivalent
+7158,60,Bachelor or equivalent
+7159,60,Bachelor or equivalent
+7160,80,Doctoral or equivalent
+7161,60,Bachelor or equivalent
+7162,60,Bachelor or equivalent
+7163,60,Bachelor or equivalent
+7164,60,Bachelor or equivalent
+7165,60,Bachelor or equivalent
+7166,60,Bachelor or equivalent
+7167,60,Bachelor or equivalent
+7168,60,Bachelor or equivalent
+7170,70,Master or equivalent
+7172,60,Bachelor or equivalent
+7173,70,Master or equivalent
+7174,70,Master or equivalent
+7175,70,Master or equivalent
+7176,60,Bachelor or equivalent
+7177,60,Bachelor or equivalent
+7178,60,Bachelor or equivalent
+7179,60,Bachelor or equivalent
+7180,80,Doctoral or equivalent
+7181,70,Master or equivalent
+7182,60,Bachelor or equivalent
+7183,70,Master or equivalent
+7184,60,Bachelor or equivalent
+7185,70,Master or equivalent
+7186,60,Bachelor or equivalent
+7187,70,Master or equivalent
+7188,70,Master or equivalent
+7189,70,Master or equivalent
+7190,80,Doctoral or equivalent
+7191,60,Bachelor or equivalent
+7192,60,Bachelor or equivalent
+7193,60,Bachelor or equivalent
+7194,60,Bachelor or equivalent
+7195,70,Master or equivalent
+7196,60,Bachelor or equivalent
+7197,60,Bachelor or equivalent
+7198,60,Bachelor or equivalent
+7199,60,Bachelor or equivalent
+7200,80,Doctoral or equivalent
+7201,60,Bachelor or equivalent
+7202,70,Master or equivalent
+7203,70,Master or equivalent
+7207,70,Master or equivalent
+7208,60,Bachelor or equivalent
+7209,60,Bachelor or equivalent
+7210,60,Bachelor or equivalent
+7211,60,Bachelor or equivalent
+7213,70,Master or equivalent
+7215,60,Bachelor or equivalent
+7216,70,Master or equivalent
+7217,70,Master or equivalent
+7218,70,Master or equivalent
+7219,70,Master or equivalent
+7220,70,Master or equivalent
+7223,70,Master or equivalent
+7224,70,Master or equivalent
+7225,70,Master or equivalent
+7226,70,Master or equivalent
+7227,70,Master or equivalent
+7230,70,Master or equivalent
+7231,60,Bachelor or equivalent
+7232,70,Master or equivalent
+7235,80,Doctoral or equivalent
+7236,70,Master or equivalent
+7237,70,Master or equivalent
+7238,70,Master or equivalent
+7239,70,Master or equivalent
+7243,70,Master or equivalent
+7253,70,Master or equivalent
+7263,70,Master or equivalent
+7279,70,Master or equivalent
+7298,70,Master or equivalent
+7303,70,Master or equivalent
+7313,70,Master or equivalent
+7314,70,Master or equivalent
+7321,70,Master or equivalent
+7322,60,Bachelor or equivalent
+7323,70,Master or equivalent
+7324,60,Bachelor or equivalent
+7325,60,Bachelor or equivalent
+7333,70,Master or equivalent
+7335,80,Doctoral or equivalent
+7336,70,Master or equivalent
+7343,70,Master or equivalent
+7344,70,Master or equivalent
+7345,70,Master or equivalent
+7348,70,Master or equivalent
+7353,70,Master or equivalent
+7362,70,Master or equivalent
+7363,70,Master or equivalent
+7364,70,Master or equivalent
+7365,80,Doctoral or equivalent
+7373,70,Master or equivalent
+7383,70,Master or equivalent
+7393,60,Bachelor or equivalent
+7394,70,Master or equivalent
+7395,70,Master or equivalent
+7396,70,Master or equivalent
+7397,70,Master or equivalent
+7398,70,Master or equivalent
+7399,70,Master or equivalent
+7400,70,Master or equivalent
+7401,70,Master or equivalent
+7402,70,Master or equivalent
+7403,70,Master or equivalent
+7404,60,Bachelor or equivalent
+7405,60,Bachelor or equivalent
+7406,60,Bachelor or equivalent
+7407,60,Bachelor or equivalent
+7408,60,Bachelor or equivalent
+7409,60,Bachelor or equivalent
+7410,60,Bachelor or equivalent
+7411,60,Bachelor or equivalent
+7412,60,Bachelor or equivalent
+7413,60,Bachelor or equivalent
+7414,60,Bachelor or equivalent
+7415,60,Bachelor or equivalent
+7416,60,Bachelor or equivalent
+7417,60,Bachelor or equivalent
+7418,60,Bachelor or equivalent
+7419,60,Bachelor or equivalent
+7420,60,Bachelor or equivalent
+7421,60,Bachelor or equivalent
+7422,60,Bachelor or equivalent
+7423,70,Master or equivalent
+7424,70,Master or equivalent
+7425,70,Master or equivalent
+7426,70,Master or equivalent
+7427,70,Master or equivalent
+7428,60,Bachelor or equivalent
+7429,60,Bachelor or equivalent
+7430,70,Master or equivalent
+7431,60,Bachelor or equivalent
+7432,60,Bachelor or equivalent
+7433,60,Bachelor or equivalent
+7434,60,Bachelor or equivalent
+7435,60,Bachelor or equivalent
+7436,60,Bachelor or equivalent
+7437,60,Bachelor or equivalent
+7438,70,Master or equivalent
+7439,60,Bachelor or equivalent
+7440,60,Bachelor or equivalent
+7441,60,Bachelor or equivalent
+7442,60,Bachelor or equivalent
+7443,60,Bachelor or equivalent
+7444,60,Bachelor or equivalent
+7445,60,Bachelor or equivalent
+7446,60,Bachelor or equivalent
+7447,60,Bachelor or equivalent
+7448,60,Bachelor or equivalent
+7449,60,Bachelor or equivalent
+7450,60,Bachelor or equivalent
+7451,60,Bachelor or equivalent
+7452,60,Bachelor or equivalent
+7453,70,Master or equivalent
+7454,70,Master or equivalent
+7455,70,Master or equivalent
+7456,70,Master or equivalent
+7457,70,Master or equivalent
+7458,70,Master or equivalent
+7459,70,Master or equivalent
+7460,70,Master or equivalent
+7461,70,Master or equivalent
+7462,70,Master or equivalent
+7463,70,Master or equivalent
+7464,70,Master or equivalent
+7465,70,Master or equivalent
+7466,70,Master or equivalent
+7467,70,Master or equivalent
+7468,70,Master or equivalent
+7469,70,Master or equivalent
+7470,70,Master or equivalent
+7471,70,Master or equivalent
+7472,70,Master or equivalent
+7473,70,Master or equivalent
+7474,70,Master or equivalent
+7475,70,Master or equivalent
+7476,70,Master or equivalent
+7477,70,Master or equivalent
+7478,70,Master or equivalent
+7479,70,Master or equivalent
+7480,70,Master or equivalent
+7481,70,Master or equivalent
+7482,70,Master or equivalent
+7483,70,Master or equivalent
+7484,70,Master or equivalent
+7485,70,Master or equivalent
+7486,70,Master or equivalent
+7487,70,Master or equivalent
+7488,70,Master or equivalent
+7489,70,Master or equivalent
+7490,70,Master or equivalent
+7491,70,Master or equivalent
+7492,70,Master or equivalent
+7493,70,Master or equivalent
+7494,70,Master or equivalent
+7495,70,Master or equivalent
+7496,70,Master or equivalent
+7497,70,Master or equivalent
+7498,70,Master or equivalent
+7499,70,Master or equivalent
+7500,70,Master or equivalent
+7501,60,Bachelor or equivalent
+7502,60,Bachelor or equivalent
+7503,60,Bachelor or equivalent
+7504,60,Bachelor or equivalent
+7505,60,Bachelor or equivalent
+7506,60,Bachelor or equivalent
+7507,60,Bachelor or equivalent
+7508,60,Bachelor or equivalent
+7509,60,Bachelor or equivalent
+7510,60,Bachelor or equivalent
+7511,60,Bachelor or equivalent
+7512,60,Bachelor or equivalent
+7513,60,Bachelor or equivalent
+7514,60,Bachelor or equivalent
+7515,60,Bachelor or equivalent
+7516,60,Bachelor or equivalent
+7517,60,Bachelor or equivalent
+7518,70,Master or equivalent
+7519,60,Bachelor or equivalent
+7520,60,Bachelor or equivalent
+7521,60,Bachelor or equivalent
+7522,60,Bachelor or equivalent
+7523,60,Bachelor or equivalent
+7524,60,Bachelor or equivalent
+7525,60,Bachelor or equivalent
+7526,60,Bachelor or equivalent
+7527,70,Master or equivalent
+7528,60,Bachelor or equivalent
+7529,60,Bachelor or equivalent
+7530,60,Bachelor or equivalent
+7531,60,Bachelor or equivalent
+7532,60,Bachelor or equivalent
+7533,60,Bachelor or equivalent
+7534,60,Bachelor or equivalent
+7535,60,Bachelor or equivalent
+7536,60,Bachelor or equivalent
+7537,70,Master or equivalent
+7538,60,Bachelor or equivalent
+7539,60,Bachelor or equivalent
+7540,60,Bachelor or equivalent
+7541,60,Bachelor or equivalent
+7542,60,Bachelor or equivalent
+7543,60,Bachelor or equivalent
+7544,60,Bachelor or equivalent
+7545,60,Bachelor or equivalent
+7546,60,Bachelor or equivalent
+7547,70,Master or equivalent
+7548,60,Bachelor or equivalent
+7549,60,Bachelor or equivalent
+7550,60,Bachelor or equivalent
+7551,60,Bachelor or equivalent
+7552,60,Bachelor or equivalent
+7553,60,Bachelor or equivalent
+7554,60,Bachelor or equivalent
+7555,60,Bachelor or equivalent
+7556,60,Bachelor or equivalent
+7557,70,Master or equivalent
+7558,60,Bachelor or equivalent
+7559,60,Bachelor or equivalent
+7560,60,Bachelor or equivalent
+7561,60,Bachelor or equivalent
+7562,60,Bachelor or equivalent
+7563,60,Bachelor or equivalent
+7564,60,Bachelor or equivalent
+7565,70,Master or equivalent
+7566,70,Master or equivalent
+7567,70,Master or equivalent
+7568,70,Master or equivalent
+7569,70,Master or equivalent
+7570,70,Master or equivalent
+7571,70,Master or equivalent
+7572,70,Master or equivalent
+7573,70,Master or equivalent
+7574,70,Master or equivalent
+7575,70,Master or equivalent
+7576,70,Master or equivalent
+7577,70,Master or equivalent
+7578,70,Master or equivalent
+7579,70,Master or equivalent
+7580,70,Master or equivalent
+7581,70,Master or equivalent
+7582,70,Master or equivalent
+7583,70,Master or equivalent
+7584,70,Master or equivalent
+7585,70,Master or equivalent
+7586,70,Master or equivalent
+7587,70,Master or equivalent
+7588,70,Master or equivalent
+7589,70,Master or equivalent
+7590,70,Master or equivalent
+7591,70,Master or equivalent
+7592,70,Master or equivalent
+7593,70,Master or equivalent
+7594,70,Master or equivalent
+7595,70,Master or equivalent
+7596,70,Master or equivalent
+7597,70,Master or equivalent
+7598,70,Master or equivalent
+7599,70,Master or equivalent
+7601,70,Master or equivalent
+7602,70,Master or equivalent
+7603,70,Master or equivalent
+7604,70,Master or equivalent
+7605,70,Master or equivalent
+7606,70,Master or equivalent
+7607,70,Master or equivalent
+7608,70,Master or equivalent
+7609,70,Master or equivalent
+7611,70,Master or equivalent
+7612,70,Master or equivalent
+7613,70,Master or equivalent
+7614,70,Master or equivalent
+7616,70,Master or equivalent
+7617,70,Master or equivalent
+7618,70,Master or equivalent
+7619,70,Master or equivalent
+7620,70,Master or equivalent
+7621,60,Bachelor or equivalent
+7622,70,Master or equivalent
+7623,70,Master or equivalent
+7624,70,Master or equivalent
+7625,70,Master or equivalent
+7626,70,Master or equivalent
+7627,70,Master or equivalent
+7628,70,Master or equivalent
+7629,70,Master or equivalent
+7630,70,Master or equivalent
+7631,70,Master or equivalent
+7632,70,Master or equivalent
+7633,70,Master or equivalent
+7634,70,Master or equivalent
+7635,70,Master or equivalent
+7636,70,Master or equivalent
+7637,70,Master or equivalent
+7638,70,Master or equivalent
+7639,70,Master or equivalent
+7640,60,Bachelor or equivalent
+7641,60,Bachelor or equivalent
+7642,60,Bachelor or equivalent
+7643,60,Bachelor or equivalent
+7644,60,Bachelor or equivalent
+7645,60,Bachelor or equivalent
+7646,60,Bachelor or equivalent
+7647,60,Bachelor or equivalent
+7648,60,Bachelor or equivalent
+7649,60,Bachelor or equivalent
+7650,60,Bachelor or equivalent
+7651,60,Bachelor or equivalent
+7652,60,Bachelor or equivalent
+7653,70,Master or equivalent
+7654,60,Bachelor or equivalent
+7655,60,Bachelor or equivalent
+7656,60,Bachelor or equivalent
+7657,60,Bachelor or equivalent
+7658,60,Bachelor or equivalent
+7659,60,Bachelor or equivalent
+7660,60,Bachelor or equivalent
+7661,60,Bachelor or equivalent
+7662,60,Bachelor or equivalent
+7663,60,Bachelor or equivalent
+7664,60,Bachelor or equivalent
+7665,60,Bachelor or equivalent
+7666,60,Bachelor or equivalent
+7667,50,Short cycle tertiary
+7668,70,Master or equivalent
+7669,60,Bachelor or equivalent
+7670,60,Bachelor or equivalent
+7671,60,Bachelor or equivalent
+7672,60,Bachelor or equivalent
+7673,70,Master or equivalent
+7674,60,Bachelor or equivalent
+7675,60,Bachelor or equivalent
+7676,60,Bachelor or equivalent
+7677,60,Bachelor or equivalent
+7678,60,Bachelor or equivalent
+7679,60,Bachelor or equivalent
+7680,60,Bachelor or equivalent
+7681,60,Bachelor or equivalent
+7682,60,Bachelor or equivalent
+7683,70,Master or equivalent
+7684,60,Bachelor or equivalent
+7685,60,Bachelor or equivalent
+7686,60,Bachelor or equivalent
+7687,60,Bachelor or equivalent
+7688,60,Bachelor or equivalent
+7689,60,Bachelor or equivalent
+7690,60,Bachelor or equivalent
+7691,60,Bachelor or equivalent
+7692,60,Bachelor or equivalent
+7693,70,Master or equivalent
+7694,60,Bachelor or equivalent
+7695,70,Master or equivalent
+7696,70,Master or equivalent
+7697,70,Master or equivalent
+7698,70,Master or equivalent
+7699,70,Master or equivalent
+7700,70,Master or equivalent
+7701,70,Master or equivalent
+7702,70,Master or equivalent
+7703,70,Master or equivalent
+7704,70,Master or equivalent
+7705,70,Master or equivalent
+7706,70,Master or equivalent
+7707,70,Master or equivalent
+7708,70,Master or equivalent
+7709,70,Master or equivalent
+7710,70,Master or equivalent
+7711,70,Master or equivalent
+7712,70,Master or equivalent
+7713,70,Master or equivalent
+7714,70,Master or equivalent
+7715,70,Master or equivalent
+7716,70,Master or equivalent
+7717,70,Master or equivalent
+7718,70,Master or equivalent
+7719,70,Master or equivalent
+7720,70,Master or equivalent
+7721,70,Master or equivalent
+7722,70,Master or equivalent
+7723,70,Master or equivalent
+7724,70,Master or equivalent
+7725,70,Master or equivalent
+7726,70,Master or equivalent
+7727,70,Master or equivalent
+7728,70,Master or equivalent
+7729,70,Master or equivalent
+7730,70,Master or equivalent
+7731,70,Master or equivalent
+7732,70,Master or equivalent
+7733,70,Master or equivalent
+7734,70,Master or equivalent
+7735,70,Master or equivalent
+7736,70,Master or equivalent
+7737,70,Master or equivalent
+7738,70,Master or equivalent
+7739,70,Master or equivalent
+7740,70,Master or equivalent
+7741,60,Bachelor or equivalent
+7742,70,Master or equivalent
+7743,70,Master or equivalent
+7744,70,Master or equivalent
+7745,70,Master or equivalent
+7746,70,Master or equivalent
+7747,70,Master or equivalent
+7748,70,Master or equivalent
+7749,70,Master or equivalent
+7750,70,Master or equivalent
+7751,70,Master or equivalent
+7752,70,Master or equivalent
+7753,70,Master or equivalent
+7754,70,Master or equivalent
+7755,60,Bachelor or equivalent
+7756,70,Master or equivalent
+7776,70,Master or equivalent
+7779,70,Master or equivalent
+7802,70,Master or equivalent
+7803,60,Bachelor or equivalent
+7804,70,Master or equivalent
+7813,70,Master or equivalent
+7832,70,Master or equivalent
+7833,70,Master or equivalent
+7841,60,Bachelor or equivalent
+7842,70,Master or equivalent
+7843,60,Bachelor or equivalent
+7844,70,Master or equivalent
+7845,60,Bachelor or equivalent
+7846,60,Bachelor or equivalent
+7847,60,Bachelor or equivalent
+7848,60,Bachelor or equivalent
+7849,60,Bachelor or equivalent
+7850,60,Bachelor or equivalent
+7851,60,Bachelor or equivalent
+7852,60,Bachelor or equivalent
+7853,60,Bachelor or equivalent
+7854,60,Bachelor or equivalent
+7855,60,Bachelor or equivalent
+7856,60,Bachelor or equivalent
+7857,60,Bachelor or equivalent
+7858,60,Bachelor or equivalent
+7859,60,Bachelor or equivalent
+7860,60,Bachelor or equivalent
+7861,70,Master or equivalent
+7862,70,Master or equivalent
+7863,70,Master or equivalent
+7864,80,Doctoral or equivalent
+7865,70,Master or equivalent
+7866,70,Master or equivalent
+7867,80,Doctoral or equivalent
+7873,70,Master or equivalent
+7883,70,Master or equivalent
+7887,70,Master or equivalent
+7893,70,Master or equivalent
+7900,60,Bachelor or equivalent
+7901,60,Bachelor or equivalent
+7902,60,Bachelor or equivalent
+7903,70,Master or equivalent
+7904,60,Bachelor or equivalent
+7905,60,Bachelor or equivalent
+7906,60,Bachelor or equivalent
+7907,60,Bachelor or equivalent
+7908,60,Bachelor or equivalent
+7909,60,Bachelor or equivalent
+7910,60,Bachelor or equivalent
+7911,60,Bachelor or equivalent
+7912,60,Bachelor or equivalent
+7913,70,Master or equivalent
+7914,60,Bachelor or equivalent
+7915,60,Bachelor or equivalent
+7916,60,Bachelor or equivalent
+7917,60,Bachelor or equivalent
+7918,60,Bachelor or equivalent
+7919,60,Bachelor or equivalent
+7920,60,Bachelor or equivalent
+7921,60,Bachelor or equivalent
+7922,60,Bachelor or equivalent
+7923,60,Bachelor or equivalent
+7924,60,Bachelor or equivalent
+7925,60,Bachelor or equivalent
+7926,60,Bachelor or equivalent
+7927,60,Bachelor or equivalent
+7928,60,Bachelor or equivalent
+7929,60,Bachelor or equivalent
+7930,60,Bachelor or equivalent
+7931,60,Bachelor or equivalent
+7932,60,Bachelor or equivalent
+7933,60,Bachelor or equivalent
+7934,60,Bachelor or equivalent
+7935,60,Bachelor or equivalent
+7936,60,Bachelor or equivalent
+7937,60,Bachelor or equivalent
+7938,60,Bachelor or equivalent
+7939,60,Bachelor or equivalent
+7940,60,Bachelor or equivalent
+7941,70,Master or equivalent
+7942,60,Bachelor or equivalent
+7943,60,Bachelor or equivalent
+7944,60,Bachelor or equivalent
+7945,70,Master or equivalent
+7946,70,Master or equivalent
+7947,70,Master or equivalent
+7948,60,Bachelor or equivalent
+7949,70,Master or equivalent
+7950,70,Master or equivalent
+7951,60,Bachelor or equivalent
+7952,70,Master or equivalent
+7953,60,Bachelor or equivalent
+7954,70,Master or equivalent
+7955,70,Master or equivalent
+7956,70,Master or equivalent
+7957,70,Master or equivalent
+7958,60,Bachelor or equivalent
+7959,70,Master or equivalent
+7960,80,Doctoral or equivalent
+7961,70,Master or equivalent
+7962,60,Bachelor or equivalent
+7963,70,Master or equivalent
+7964,60,Bachelor or equivalent
+7965,80,Doctoral or equivalent
+7966,60,Bachelor or equivalent
+7967,60,Bachelor or equivalent
+7968,60,Bachelor or equivalent
+7969,60,Bachelor or equivalent
+7970,80,Doctoral or equivalent
+7971,60,Bachelor or equivalent
+7972,60,Bachelor or equivalent
+7973,60,Bachelor or equivalent
+7974,60,Bachelor or equivalent
+7976,60,Bachelor or equivalent
+7977,60,Bachelor or equivalent
+7981,60,Bachelor or equivalent
+7982,60,Bachelor or equivalent
+7983,60,Bachelor or equivalent
+7984,60,Bachelor or equivalent
+7985,60,Bachelor or equivalent
+7986,60,Bachelor or equivalent
+7995,70,Master or equivalent
+8000,80,Doctoral or equivalent
+8001,70,Master or equivalent
+8002,70,Master or equivalent
+8003,70,Master or equivalent
+8004,70,Master or equivalent
+8005,70,Master or equivalent
+8006,70,Master or equivalent
+8007,70,Master or equivalent
+8008,70,Master or equivalent
+8009,70,Master or equivalent
+8010,70,Master or equivalent
+8011,70,Master or equivalent
+8012,70,Master or equivalent
+8013,70,Master or equivalent
+8014,70,Master or equivalent
+8015,70,Master or equivalent
+8016,70,Master or equivalent
+8017,70,Master or equivalent
+8018,70,Master or equivalent
+8019,70,Master or equivalent
+8020,70,Master or equivalent
+8021,60,Bachelor or equivalent
+8022,70,Master or equivalent
+8023,70,Master or equivalent
+8024,70,Master or equivalent
+8025,70,Master or equivalent
+8026,60,Bachelor or equivalent
+8027,70,Master or equivalent
+8028,70,Master or equivalent
+8029,70,Master or equivalent
+8030,70,Master or equivalent
+8031,70,Master or equivalent
+8032,70,Master or equivalent
+8033,70,Master or equivalent
+8034,70,Master or equivalent
+8035,70,Master or equivalent
+8036,70,Master or equivalent
+8037,70,Master or equivalent
+8038,70,Master or equivalent
+8039,60,Bachelor or equivalent
+8040,60,Bachelor or equivalent
+8041,60,Bachelor or equivalent
+8042,60,Bachelor or equivalent
+8043,70,Master or equivalent
+8044,60,Bachelor or equivalent
+8045,60,Bachelor or equivalent
+8046,70,Master or equivalent
+8047,70,Master or equivalent
+8048,70,Master or equivalent
+8049,60,Bachelor or equivalent
+8050,60,Bachelor or equivalent
+8051,70,Master or equivalent
+8052,60,Bachelor or equivalent
+8053,70,Master or equivalent
+8054,70,Master or equivalent
+8055,70,Master or equivalent
+8056,70,Master or equivalent
+8057,70,Master or equivalent
+8058,70,Master or equivalent
+8059,60,Bachelor or equivalent
+8060,70,Master or equivalent
+8061,70,Master or equivalent
+8062,70,Master or equivalent
+8063,70,Master or equivalent
+8064,70,Master or equivalent
+8065,70,Master or equivalent
+8066,60,Bachelor or equivalent
+8067,60,Bachelor or equivalent
+8068,60,Bachelor or equivalent
+8072,70,Master or equivalent
+8073,70,Master or equivalent
+8074,70,Master or equivalent
+8075,60,Bachelor or equivalent
+8076,70,Master or equivalent
+8077,70,Master or equivalent
+8078,70,Master or equivalent
+8079,70,Master or equivalent
+8080,70,Master or equivalent
+8081,70,Master or equivalent
+8082,70,Master or equivalent
+8083,70,Master or equivalent
+8084,70,Master or equivalent
+8085,70,Master or equivalent
+8086,70,Master or equivalent
+8087,70,Master or equivalent
+8088,70,Master or equivalent
+8089,70,Master or equivalent
+8090,70,Master or equivalent
+8091,70,Master or equivalent
+8092,70,Master or equivalent
+8093,70,Master or equivalent
+8094,70,Master or equivalent
+8095,70,Master or equivalent
+8096,70,Master or equivalent
+8097,70,Master or equivalent
+8098,70,Master or equivalent
+8099,70,Master or equivalent
+8100,60,Bachelor or equivalent
+8101,60,Bachelor or equivalent
+8102,60,Bachelor or equivalent
+8103,60,Bachelor or equivalent
+8104,60,Bachelor or equivalent
+8105,60,Bachelor or equivalent
+8106,60,Bachelor or equivalent
+8107,60,Bachelor or equivalent
+8108,60,Bachelor or equivalent
+8109,60,Bachelor or equivalent
+8110,60,Bachelor or equivalent
+8111,60,Bachelor or equivalent
+8112,60,Bachelor or equivalent
+8113,60,Bachelor or equivalent
+8114,60,Bachelor or equivalent
+8115,70,Master or equivalent
+8116,60,Bachelor or equivalent
+8117,70,Master or equivalent
+8118,70,Master or equivalent
+8119,60,Bachelor or equivalent
+8120,60,Bachelor or equivalent
+8121,60,Bachelor or equivalent
+8122,60,Bachelor or equivalent
+8123,60,Bachelor or equivalent
+8124,60,Bachelor or equivalent
+8125,60,Bachelor or equivalent
+8126,60,Bachelor or equivalent
+8127,70,Master or equivalent
+8128,60,Bachelor or equivalent
+8129,60,Bachelor or equivalent
+8130,60,Bachelor or equivalent
+8131,70,Master or equivalent
+8132,60,Bachelor or equivalent
+8133,60,Bachelor or equivalent
+8134,60,Bachelor or equivalent
+8135,60,Bachelor or equivalent
+8136,60,Bachelor or equivalent
+8137,60,Bachelor or equivalent
+8138,60,Bachelor or equivalent
+8139,60,Bachelor or equivalent
+8140,60,Bachelor or equivalent
+8141,70,Master or equivalent
+8142,70,Master or equivalent
+8143,70,Master or equivalent
+8144,70,Master or equivalent
+8145,70,Master or equivalent
+8146,70,Master or equivalent
+8147,60,Bachelor or equivalent
+8148,60,Bachelor or equivalent
+8149,60,Bachelor or equivalent
+8150,60,Bachelor or equivalent
+8151,70,Master or equivalent
+8152,60,Bachelor or equivalent
+8153,60,Bachelor or equivalent
+8154,60,Bachelor or equivalent
+8155,60,Bachelor or equivalent
+8156,60,Bachelor or equivalent
+8157,60,Bachelor or equivalent
+8158,60,Bachelor or equivalent
+8159,60,Bachelor or equivalent
+8161,60,Bachelor or equivalent
+8162,60,Bachelor or equivalent
+8163,60,Bachelor or equivalent
+8164,60,Bachelor or equivalent
+8165,70,Master or equivalent
+8166,70,Master or equivalent
+8167,60,Bachelor or equivalent
+8168,60,Bachelor or equivalent
+8169,60,Bachelor or equivalent
+8170,60,Bachelor or equivalent
+8171,70,Master or equivalent
+8172,60,Bachelor or equivalent
+8173,70,Master or equivalent
+8174,70,Master or equivalent
+8175,70,Master or equivalent
+8176,60,Bachelor or equivalent
+8177,60,Bachelor or equivalent
+8178,60,Bachelor or equivalent
+8179,60,Bachelor or equivalent
+8180,60,Bachelor or equivalent
+8181,70,Master or equivalent
+8182,70,Master or equivalent
+8183,70,Master or equivalent
+8184,70,Master or equivalent
+8185,70,Master or equivalent
+8186,60,Bachelor or equivalent
+8187,60,Bachelor or equivalent
+8188,60,Bachelor or equivalent
+8189,70,Master or equivalent
+8190,60,Bachelor or equivalent
+8191,60,Bachelor or equivalent
+8192,60,Bachelor or equivalent
+8193,60,Bachelor or equivalent
+8194,60,Bachelor or equivalent
+8195,60,Bachelor or equivalent
+8196,60,Bachelor or equivalent
+8197,60,Bachelor or equivalent
+8198,70,Master or equivalent
+8199,70,Master or equivalent
+8200,70,Master or equivalent
+8201,70,Master or equivalent
+8202,70,Master or equivalent
+8203,70,Master or equivalent
+8204,70,Master or equivalent
+8205,70,Master or equivalent
+8206,70,Master or equivalent
+8207,70,Master or equivalent
+8208,70,Master or equivalent
+8209,70,Master or equivalent
+8210,70,Master or equivalent
+8211,70,Master or equivalent
+8212,70,Master or equivalent
+8213,70,Master or equivalent
+8214,70,Master or equivalent
+8215,70,Master or equivalent
+8216,70,Master or equivalent
+8217,70,Master or equivalent
+8218,70,Master or equivalent
+8219,70,Master or equivalent
+8220,70,Master or equivalent
+8221,70,Master or equivalent
+8222,70,Master or equivalent
+8223,70,Master or equivalent
+8224,70,Master or equivalent
+8225,70,Master or equivalent
+8226,70,Master or equivalent
+8227,70,Master or equivalent
+8228,70,Master or equivalent
+8229,70,Master or equivalent
+8231,70,Master or equivalent
+8232,70,Master or equivalent
+8233,70,Master or equivalent
+8234,70,Master or equivalent
+8235,70,Master or equivalent
+8236,70,Master or equivalent
+8237,70,Master or equivalent
+8238,70,Master or equivalent
+8239,70,Master or equivalent
+8240,70,Master or equivalent
+8241,70,Master or equivalent
+8242,70,Master or equivalent
+8243,70,Master or equivalent
+8244,70,Master or equivalent
+8245,70,Master or equivalent
+8246,60,Bachelor or equivalent
+8247,60,Bachelor or equivalent
+8248,70,Master or equivalent
+8249,70,Master or equivalent
+8250,70,Master or equivalent
+8251,70,Master or equivalent
+8252,70,Master or equivalent
+8253,60,Bachelor or equivalent
+8254,70,Master or equivalent
+8255,60,Bachelor or equivalent
+8256,70,Master or equivalent
+8257,70,Master or equivalent
+8258,70,Master or equivalent
+8259,70,Master or equivalent
+8260,70,Master or equivalent
+8261,60,Bachelor or equivalent
+8262,70,Master or equivalent
+8263,70,Master or equivalent
+8264,70,Master or equivalent
+8265,60,Bachelor or equivalent
+8266,60,Bachelor or equivalent
+8267,60,Bachelor or equivalent
+8270,70,Master or equivalent
+8271,60,Bachelor or equivalent
+8272,70,Master or equivalent
+8275,70,Master or equivalent
+8281,70,Master or equivalent
+8282,60,Bachelor or equivalent
+8283,70,Master or equivalent
+8284,70,Master or equivalent
+8285,60,Bachelor or equivalent
+8290,60,Bachelor or equivalent
+8291,60,Bachelor or equivalent
+8292,60,Bachelor or equivalent
+8295,70,Master or equivalent
+8296,70,Master or equivalent
+8300,70,Master or equivalent
+8301,80,Doctoral or equivalent
+8302,70,Master or equivalent
+8303,70,Master or equivalent
+8304,70,Master or equivalent
+8305,70,Master or equivalent
+8306,70,Master or equivalent
+8307,70,Master or equivalent
+8308,70,Master or equivalent
+8309,70,Master or equivalent
+8310,70,Master or equivalent
+8311,70,Master or equivalent
+8312,70,Master or equivalent
+8313,70,Master or equivalent
+8314,70,Master or equivalent
+8315,70,Master or equivalent
+8316,70,Master or equivalent
+8317,70,Master or equivalent
+8318,70,Master or equivalent
+8319,70,Master or equivalent
+8320,70,Master or equivalent
+8321,70,Master or equivalent
+8322,70,Master or equivalent
+8323,70,Master or equivalent
+8324,70,Master or equivalent
+8325,70,Master or equivalent
+8326,70,Master or equivalent
+8327,70,Master or equivalent
+8328,70,Master or equivalent
+8329,70,Master or equivalent
+8330,70,Master or equivalent
+8331,70,Master or equivalent
+8332,70,Master or equivalent
+8333,70,Master or equivalent
+8334,70,Master or equivalent
+8335,70,Master or equivalent
+8336,70,Master or equivalent
+8337,70,Master or equivalent
+8338,70,Master or equivalent
+8339,70,Master or equivalent
+8340,70,Master or equivalent
+8341,70,Master or equivalent
+8342,70,Master or equivalent
+8343,70,Master or equivalent
+8344,70,Master or equivalent
+8345,70,Master or equivalent
+8346,70,Master or equivalent
+8347,70,Master or equivalent
+8348,70,Master or equivalent
+8349,70,Master or equivalent
+8350,70,Master or equivalent
+8351,70,Master or equivalent
+8352,70,Master or equivalent
+8353,70,Master or equivalent
+8354,70,Master or equivalent
+8355,70,Master or equivalent
+8356,70,Master or equivalent
+8357,70,Master or equivalent
+8358,70,Master or equivalent
+8359,70,Master or equivalent
+8360,70,Master or equivalent
+8361,70,Master or equivalent
+8362,70,Master or equivalent
+8363,70,Master or equivalent
+8364,70,Master or equivalent
+8365,70,Master or equivalent
+8366,70,Master or equivalent
+8367,70,Master or equivalent
+8368,70,Master or equivalent
+8369,70,Master or equivalent
+8370,70,Master or equivalent
+8371,70,Master or equivalent
+8372,70,Master or equivalent
+8373,70,Master or equivalent
+8374,70,Master or equivalent
+8375,70,Master or equivalent
+8376,70,Master or equivalent
+8377,70,Master or equivalent
+8378,70,Master or equivalent
+8379,60,Bachelor or equivalent
+8380,70,Master or equivalent
+8381,70,Master or equivalent
+8382,70,Master or equivalent
+8383,70,Master or equivalent
+8384,70,Master or equivalent
+8385,70,Master or equivalent
+8386,70,Master or equivalent
+8387,70,Master or equivalent
+8388,70,Master or equivalent
+8400,60,Bachelor or equivalent
+8401,50,Short cycle tertiary
+8402,60,Bachelor or equivalent
+8403,60,Bachelor or equivalent
+8404,60,Bachelor or equivalent
+8405,60,Bachelor or equivalent
+8406,60,Bachelor or equivalent
+8407,60,Bachelor or equivalent
+8408,50,Short cycle tertiary
+8409,60,Bachelor or equivalent
+8410,60,Bachelor or equivalent
+8411,60,Bachelor or equivalent
+8412,60,Bachelor or equivalent
+8413,50,Short cycle tertiary
+8415,70,Master or equivalent
+8416,70,Master or equivalent
+8417,60,Bachelor or equivalent
+8418,70,Master or equivalent
+8420,60,Bachelor or equivalent
+8421,60,Bachelor or equivalent
+8422,70,Master or equivalent
+8440,60,Bachelor or equivalent
+8441,50,Short cycle tertiary
+8442,50,Short cycle tertiary
+8443,50,Short cycle tertiary
+8444,50,Short cycle tertiary
+8445,60,Bachelor or equivalent
+8446,60,Bachelor or equivalent
+8447,60,Bachelor or equivalent
+8448,60,Bachelor or equivalent
+8480,70,Master or equivalent
+8481,70,Master or equivalent
+8482,70,Master or equivalent
+8483,70,Master or equivalent
+8484,70,Master or equivalent
+8485,70,Master or equivalent
+8486,70,Master or equivalent
+8487,70,Master or equivalent
+8488,70,Master or equivalent
+8489,70,Master or equivalent
+8501,60,Bachelor or equivalent
+8502,60,Bachelor or equivalent
+8503,60,Bachelor or equivalent
+8504,60,Bachelor or equivalent
+8505,60,Bachelor or equivalent
+8506,60,Bachelor or equivalent
+8507,60,Bachelor or equivalent
+8508,60,Bachelor or equivalent
+8509,60,Bachelor or equivalent
+8510,60,Bachelor or equivalent
+8511,60,Bachelor or equivalent
+8512,60,Bachelor or equivalent
+8513,60,Bachelor or equivalent
+8517,60,Bachelor or equivalent
+8518,60,Bachelor or equivalent
+8519,60,Bachelor or equivalent
+8520,60,Bachelor or equivalent
+8521,60,Bachelor or equivalent
+8522,60,Bachelor or equivalent
+8523,50,Short cycle tertiary
+8524,60,Bachelor or equivalent
+8525,60,Bachelor or equivalent
+8526,60,Bachelor or equivalent
+8551,60,Bachelor or equivalent
+8552,60,Bachelor or equivalent
+8553,60,Bachelor or equivalent
+8554,60,Bachelor or equivalent
+8555,60,Bachelor or equivalent
+8556,60,Bachelor or equivalent
+8557,60,Bachelor or equivalent
+8558,60,Bachelor or equivalent
+8559,60,Bachelor or equivalent
+8560,60,Bachelor or equivalent
+8561,60,Bachelor or equivalent
+8562,60,Bachelor or equivalent
+8563,60,Bachelor or equivalent
+8564,60,Bachelor or equivalent
+8584,70,Master or equivalent
+8585,70,Master or equivalent
+8586,60,Bachelor or equivalent
+8587,70,Master or equivalent
+8588,70,Master or equivalent
+8589,70,Master or equivalent
+8599,60,Bachelor or equivalent
+8600,60,Bachelor or equivalent
+8601,60,Bachelor or equivalent
+8602,60,Bachelor or equivalent
+8603,60,Bachelor or equivalent
+8604,50,Short cycle tertiary
+8620,60,Bachelor or equivalent
+8621,60,Bachelor or equivalent
+8622,60,Bachelor or equivalent
+8623,60,Bachelor or equivalent
+8624,60,Bachelor or equivalent
+8625,60,Bachelor or equivalent
+8626,60,Bachelor or equivalent
+8627,60,Bachelor or equivalent
+8628,60,Bachelor or equivalent
+8629,60,Bachelor or equivalent
+8630,60,Bachelor or equivalent
+8631,60,Bachelor or equivalent
+8632,60,Bachelor or equivalent
+8633,60,Bachelor or equivalent
+8634,60,Bachelor or equivalent
+8635,60,Bachelor or equivalent
+8636,60,Bachelor or equivalent
+8637,60,Bachelor or equivalent
+8638,60,Bachelor or equivalent
+8639,60,Bachelor or equivalent
+8640,60,Bachelor or equivalent
+8641,60,Bachelor or equivalent
+8642,60,Bachelor or equivalent
+8643,60,Bachelor or equivalent
+8644,60,Bachelor or equivalent
+8645,60,Bachelor or equivalent
+8646,60,Bachelor or equivalent
+8655,60,Bachelor or equivalent
+8656,60,Bachelor or equivalent
+8657,60,Bachelor or equivalent
+8658,60,Bachelor or equivalent
+8670,60,Bachelor or equivalent
+8671,60,Bachelor or equivalent
+8672,60,Bachelor or equivalent
+8673,60,Bachelor or equivalent
+8674,60,Bachelor or equivalent
+8701,70,Master or equivalent
+8702,70,Master or equivalent
+8703,70,Master or equivalent
+8704,70,Master or equivalent
+8705,70,Master or equivalent
+8706,70,Master or equivalent
+8707,70,Master or equivalent
+8708,70,Master or equivalent
+8709,70,Master or equivalent
+8710,70,Master or equivalent
+8711,70,Master or equivalent
+8712,70,Master or equivalent
+8713,70,Master or equivalent
+8714,70,Master or equivalent
+8715,70,Master or equivalent
+8716,70,Master or equivalent
+8717,70,Master or equivalent
+8718,70,Master or equivalent
+8719,70,Master or equivalent
+8720,70,Master or equivalent
+8721,70,Master or equivalent
+8722,70,Master or equivalent
+8723,70,Master or equivalent
+8724,70,Master or equivalent
+8725,70,Master or equivalent
+8726,70,Master or equivalent
+8727,70,Master or equivalent
+8728,70,Master or equivalent
+8729,70,Master or equivalent
+8750,70,Master or equivalent
+8799,70,Master or equivalent
+8800,70,Master or equivalent
+8801,70,Master or equivalent
+8802,70,Master or equivalent
+8803,70,Master or equivalent
+8804,70,Master or equivalent
+8805,70,Master or equivalent
+8806,70,Master or equivalent
+8807,70,Master or equivalent
+8808,70,Master or equivalent
+8809,70,Master or equivalent
+8810,70,Master or equivalent
+8811,70,Master or equivalent
+8812,70,Master or equivalent
+8813,70,Master or equivalent
+8814,70,Master or equivalent
+8815,70,Master or equivalent
+8816,70,Master or equivalent
+8817,70,Master or equivalent
+8818,70,Master or equivalent
+8819,70,Master or equivalent
+8820,70,Master or equivalent
+8821,70,Master or equivalent
+8822,70,Master or equivalent
+8823,70,Master or equivalent
+8824,70,Master or equivalent
+8825,70,Master or equivalent
+8826,70,Master or equivalent
+8827,70,Master or equivalent
+8828,70,Master or equivalent
+8829,70,Master or equivalent
+8830,70,Master or equivalent
+8831,70,Master or equivalent
+8832,70,Master or equivalent
+8833,70,Master or equivalent
+8834,70,Master or equivalent
+8835,70,Master or equivalent
+8836,70,Master or equivalent
+8837,70,Master or equivalent
+8838,70,Master or equivalent
+8839,70,Master or equivalent
+8840,70,Master or equivalent
+8841,70,Master or equivalent
+8842,70,Master or equivalent
+8843,70,Master or equivalent
+8844,70,Master or equivalent
+8845,70,Master or equivalent
+8846,70,Master or equivalent
+8847,70,Master or equivalent
+8848,70,Master or equivalent
+8849,70,Master or equivalent
+8850,70,Master or equivalent
+8851,70,Master or equivalent
+8852,70,Master or equivalent
+8853,70,Master or equivalent
+8854,70,Master or equivalent
+8855,70,Master or equivalent
+8856,70,Master or equivalent
+8857,70,Master or equivalent
+8858,70,Master or equivalent
+8859,70,Master or equivalent
+8860,70,Master or equivalent
+8861,70,Master or equivalent
+8862,70,Master or equivalent
+8863,70,Master or equivalent
+8864,70,Master or equivalent
+8865,70,Master or equivalent
+8866,70,Master or equivalent
+8867,70,Master or equivalent
+8868,70,Master or equivalent
+8869,70,Master or equivalent
+8870,70,Master or equivalent
+8871,70,Master or equivalent
+8872,70,Master or equivalent
+8873,70,Master or equivalent
+8874,70,Master or equivalent
+8875,70,Master or equivalent
+8876,70,Master or equivalent
+8877,70,Master or equivalent
+8878,70,Master or equivalent
+8879,70,Master or equivalent
+8880,70,Master or equivalent
+8881,70,Master or equivalent
+8882,70,Master or equivalent
+8883,70,Master or equivalent
+8884,70,Master or equivalent
+8885,70,Master or equivalent
+8886,70,Master or equivalent
+8887,70,Master or equivalent
+8888,70,Master or equivalent
+8889,70,Master or equivalent
+8890,70,Master or equivalent
+8891,70,Master or equivalent
+8892,70,Master or equivalent
+8893,70,Master or equivalent
+8894,70,Master or equivalent
+8895,70,Master or equivalent
+8896,70,Master or equivalent
+8897,70,Master or equivalent
+8898,70,Master or equivalent
+8899,70,Master or equivalent
+8900,70,Master or equivalent
+8901,70,Master or equivalent
+8902,70,Master or equivalent
+8903,70,Master or equivalent
+8904,70,Master or equivalent
+8905,70,Master or equivalent
+8906,70,Master or equivalent
+8907,70,Master or equivalent
+8908,70,Master or equivalent
+8909,70,Master or equivalent
+8910,70,Master or equivalent
+8911,70,Master or equivalent
+8912,70,Master or equivalent
+8913,70,Master or equivalent
+8914,70,Master or equivalent
+8915,70,Master or equivalent
+8916,70,Master or equivalent
+8917,70,Master or equivalent
+8918,70,Master or equivalent
+8919,70,Master or equivalent
+8920,70,Master or equivalent
+8921,70,Master or equivalent
+8922,70,Master or equivalent
+8923,70,Master or equivalent
+8924,70,Master or equivalent
+8925,70,Master or equivalent
+8926,70,Master or equivalent
+8927,70,Master or equivalent
+8928,70,Master or equivalent
+8929,70,Master or equivalent
+8930,70,Master or equivalent
+8931,70,Master or equivalent
+8932,70,Master or equivalent
+8933,70,Master or equivalent
+8934,70,Master or equivalent
+8935,70,Master or equivalent
+8936,70,Master or equivalent
+8937,70,Master or equivalent
+8938,70,Master or equivalent
+8939,70,Master or equivalent
+8940,70,Master or equivalent
+8941,70,Master or equivalent
+8942,70,Master or equivalent
+8943,70,Master or equivalent
+8944,70,Master or equivalent
+8945,70,Master or equivalent
+8946,70,Master or equivalent
+8947,70,Master or equivalent
+8948,70,Master or equivalent
+8949,70,Master or equivalent
+8950,70,Master or equivalent
+8951,70,Master or equivalent
+8952,70,Master or equivalent
+8953,70,Master or equivalent
+8954,70,Master or equivalent
+8955,70,Master or equivalent
+8956,70,Master or equivalent
+8957,70,Master or equivalent
+8958,70,Master or equivalent
+8959,70,Master or equivalent
+8960,70,Master or equivalent
+8961,70,Master or equivalent
+8962,70,Master or equivalent
+8963,70,Master or equivalent
+8964,70,Master or equivalent
+8965,70,Master or equivalent
+8966,70,Master or equivalent
+8967,70,Master or equivalent
+8969,70,Master or equivalent
+8970,70,Master or equivalent
+8971,70,Master or equivalent
+8972,70,Master or equivalent
+8973,70,Master or equivalent
+8974,70,Master or equivalent
+8975,70,Master or equivalent
+8976,70,Master or equivalent
+8977,70,Master or equivalent
+8978,70,Master or equivalent
+8979,70,Master or equivalent
+8980,70,Master or equivalent
+8981,70,Master or equivalent
+8993,60,Bachelor or equivalent
+8994,70,Master or equivalent
+8995,70,Master or equivalent
+8996,70,Master or equivalent
+8997,70,Master or equivalent
+8998,70,Master or equivalent
+8999,70,Master or equivalent
+9014,30,Upper secondary
+9015,60,Bachelor or equivalent
+9020,60,Bachelor or equivalent
+9030,60,Bachelor or equivalent
+9034,70,Master or equivalent
+9035,70,Master or equivalent
+9036,70,Master or equivalent
+9037,70,Master or equivalent
+9038,70,Master or equivalent
+9039,70,Master or equivalent
+9040,70,Master or equivalent
+9041,70,Master or equivalent
+9042,70,Master or equivalent
+9043,70,Master or equivalent
+9044,70,Master or equivalent
+9045,70,Master or equivalent
+9046,70,Master or equivalent
+9047,70,Master or equivalent
+9049,70,Master or equivalent
+9050,70,Master or equivalent
+9051,70,Master or equivalent
+9052,70,Master or equivalent
+9053,70,Master or equivalent
+9054,70,Master or equivalent
+9055,70,Master or equivalent
+9056,70,Master or equivalent
+9057,70,Master or equivalent
+9061,70,Master or equivalent
+9062,70,Master or equivalent
+9106,30,Upper secondary
+9121,70,Master or equivalent
+9122,70,Master or equivalent
+9123,70,Master or equivalent
+9124,70,Master or equivalent
+9125,70,Master or equivalent
+9132,50,Short cycle tertiary
+9144,50,Short cycle tertiary
+9167,60,Bachelor or equivalent
+9171,80,Doctoral or equivalent
+9172,60,Bachelor or equivalent
+9173,30,Upper secondary
+9174,70,Master or equivalent
+9175,70,Master or equivalent
+9176,60,Bachelor or equivalent
+9197,60,Bachelor or equivalent
+9203,50,Short cycle tertiary
+9215,30,Upper secondary
+9224,60,Bachelor or equivalent
+9225,70,Master or equivalent
+9258,80,Doctoral or equivalent
+9264,70,Master or equivalent
+9266,80,Doctoral or equivalent
+9267,80,Doctoral or equivalent
+9269,80,Doctoral or equivalent
+9315,30,Upper secondary
+9316,30,Upper secondary
+9317,30,Upper secondary
+9320,30,Upper secondary
+9321,30,Upper secondary
+9322,30,Upper secondary
+9327,30,Upper secondary
+9328,30,Upper secondary
+9329,30,Upper secondary
+9330,30,Upper secondary
+9332,30,Upper secondary
+9333,30,Upper secondary
+9334,30,Upper secondary
+9338,30,Upper secondary
+9339,70,Master or equivalent
+9342,30,Upper secondary
+9369,30,Upper secondary
+9382,30,Upper secondary
+9384,30,Upper secondary
+9385,70,Master or equivalent
+9386,30,Upper secondary
+9390,80,Doctoral or equivalent
+9391,70,Master or equivalent
+9392,70,Master or equivalent
+9393,70,Master or equivalent
+9394,70,Master or equivalent
+9395,70,Master or equivalent
+9396,70,Master or equivalent
+9397,70,Master or equivalent
+9398,70,Master or equivalent
+9399,70,Master or equivalent
+9400,70,Master or equivalent
+9403,70,Master or equivalent
+9404,70,Master or equivalent
+9405,70,Master or equivalent
+9406,70,Master or equivalent
+9407,70,Master or equivalent
+9409,70,Master or equivalent
+9410,70,Master or equivalent
+9412,70,Master or equivalent
+9413,70,Master or equivalent
+9414,70,Master or equivalent
+9416,70,Master or equivalent
+9418,70,Master or equivalent
+9420,70,Master or equivalent
+9422,70,Master or equivalent
+9423,70,Master or equivalent
+9424,70,Master or equivalent
+9429,30,Upper secondary
+9430,80,Doctoral or equivalent
+9431,30,Upper secondary
+9434,30,Upper secondary
+9435,30,Upper secondary
+9440,30,Upper secondary
+9445,30,Upper secondary
+9450,80,Doctoral or equivalent
+9465,70,Master or equivalent
+9467,30,Upper secondary
+9468,30,Upper secondary
+9469,70,Master or equivalent
+9470,60,Bachelor or equivalent
+9471,70,Master or equivalent
+9472,70,Master or equivalent
+9473,70,Master or equivalent
+9474,60,Bachelor or equivalent
+9475,70,Master or equivalent
+9476,70,Master or equivalent
+9477,60,Bachelor or equivalent
+9481,70,Master or equivalent
+9483,30,Upper secondary
+9484,30,Upper secondary
+9485,30,Upper secondary
+9486,30,Upper secondary
+9487,70,Master or equivalent
+9488,80,Doctoral or equivalent
+9490,70,Master or equivalent
+9491,70,Master or equivalent
+9492,80,Doctoral or equivalent
+9493,70,Master or equivalent
+9495,60,Bachelor or equivalent
+9498,70,Master or equivalent
+9500,70,Master or equivalent
+9502,80,Doctoral or equivalent
+9504,70,Master or equivalent
+9505,70,Master or equivalent
+9508,70,Master or equivalent
+9514,70,Master or equivalent
+9515,70,Master or equivalent
+9517,30,Upper secondary
+9518,80,Doctoral or equivalent
+9529,50,Short cycle tertiary
+9531,60,Bachelor or equivalent
+9533,50,Short cycle tertiary
+9534,50,Short cycle tertiary
+9535,50,Short cycle tertiary
+9536,50,Short cycle tertiary
+9537,50,Short cycle tertiary
+9538,50,Short cycle tertiary
+9539,50,Short cycle tertiary
+9540,30,Upper secondary
+9541,50,Short cycle tertiary
+9542,50,Short cycle tertiary
+9556,80,Doctoral or equivalent
+9564,30,Upper secondary
+9569,30,Upper secondary
+9571,80,Doctoral or equivalent
+9572,60,Bachelor or equivalent
+9573,30,Upper secondary
+9574,60,Bachelor or equivalent
+9580,60,Bachelor or equivalent
+9584,60,Bachelor or equivalent
+9585,60,Bachelor or equivalent
+9586,60,Bachelor or equivalent
+9588,60,Bachelor or equivalent
+9589,60,Bachelor or equivalent
+9602,20,Lower secondary
+9603,20,Lower secondary
+9604,20,Lower secondary
+9606,20,Lower secondary
+9607,20,Lower secondary
+9618,50,Short cycle tertiary
+9620,60,Bachelor or equivalent
+9621,30,Upper secondary
+9622,30,Upper secondary
+9623,30,Upper secondary
+9636,30,Upper secondary
+9654,30,Upper secondary
+9655,60,Bachelor or equivalent
+9658,60,Bachelor or equivalent
+9661,30,Upper secondary
+9668,70,Master or equivalent
+9677,30,Upper secondary
+9678,30,Upper secondary
+9679,30,Upper secondary
+9681,30,Upper secondary
+9682,30,Upper secondary
+9683,30,Upper secondary
+9684,30,Upper secondary
+9685,30,Upper secondary
+9686,70,Master or equivalent
+9687,60,Bachelor or equivalent
+9688,60,Bachelor or equivalent
+9689,30,Upper secondary
+9693,30,Upper secondary
+9694,30,Upper secondary
+9695,30,Upper secondary
+9696,30,Upper secondary
+9697,30,Upper secondary
+9698,30,Upper secondary
+9699,30,Upper secondary
+9703,30,Upper secondary
+9704,30,Upper secondary
+9705,60,Bachelor or equivalent
+9706,30,Upper secondary
+9707,60,Bachelor or equivalent
+9708,30,Upper secondary
+9709,30,Upper secondary
+9710,30,Upper secondary
+9711,30,Upper secondary
+9712,30,Upper secondary
+9713,30,Upper secondary
+9714,60,Bachelor or equivalent
+9715,30,Upper secondary
+9716,70,Master or equivalent
+9717,70,Master or equivalent
+9718,30,Upper secondary
+9719,30,Upper secondary
+9720,30,Upper secondary
+9721,30,Upper secondary
+9722,30,Upper secondary
+9723,30,Upper secondary
+9724,30,Upper secondary
+9725,30,Upper secondary
+9726,30,Upper secondary
+9730,30,Upper secondary
+9731,30,Upper secondary
+9732,30,Upper secondary
+9733,30,Upper secondary
+9734,30,Upper secondary
+9735,30,Upper secondary
+9736,30,Upper secondary
+9737,30,Upper secondary
+9738,30,Upper secondary
+9739,30,Upper secondary
+9740,30,Upper secondary
+9741,30,Upper secondary
+9742,30,Upper secondary
+9743,30,Upper secondary
+9744,30,Upper secondary
+9745,30,Upper secondary
+9746,30,Upper secondary
+9747,30,Upper secondary
+9748,30,Upper secondary
+9749,30,Upper secondary
+9750,30,Upper secondary
+9751,30,Upper secondary
+9752,30,Upper secondary
+9753,30,Upper secondary
+9754,30,Upper secondary
+9755,30,Upper secondary
+9756,30,Upper secondary
+9757,30,Upper secondary
+9758,30,Upper secondary
+9759,30,Upper secondary
+9760,30,Upper secondary
+9761,30,Upper secondary
+9762,30,Upper secondary
+9763,30,Upper secondary
+9764,30,Upper secondary
+9765,30,Upper secondary
+9766,30,Upper secondary
+9767,30,Upper secondary
+9768,30,Upper secondary
+9769,30,Upper secondary
+9770,30,Upper secondary
+9771,30,Upper secondary
+9772,30,Upper secondary
+9773,30,Upper secondary
+9774,30,Upper secondary
+9775,30,Upper secondary
+9776,30,Upper secondary
+9777,30,Upper secondary
+9778,30,Upper secondary
+9779,30,Upper secondary
+9780,30,Upper secondary
+9781,30,Upper secondary
+9782,30,Upper secondary
+9783,30,Upper secondary
+9784,30,Upper secondary
+9785,30,Upper secondary
+9786,30,Upper secondary
+9787,30,Upper secondary
+9788,30,Upper secondary
+9800,30,Upper secondary
+9801,30,Upper secondary
+9802,30,Upper secondary
+9803,30,Upper secondary
+9804,30,Upper secondary
+9805,30,Upper secondary
+9806,30,Upper secondary
+9807,30,Upper secondary
+9808,30,Upper secondary
+9809,30,Upper secondary
+9810,30,Upper secondary
+9811,30,Upper secondary
+9812,30,Upper secondary
+9813,30,Upper secondary
+9814,30,Upper secondary
+9815,30,Upper secondary
+9816,30,Upper secondary
+9817,30,Upper secondary
+9818,30,Upper secondary
+9819,30,Upper secondary
+9820,30,Upper secondary
+9821,30,Upper secondary
+9822,30,Upper secondary
+9823,30,Upper secondary
+9824,30,Upper secondary
+9825,30,Upper secondary
+9826,30,Upper secondary
+9827,30,Upper secondary
+9828,30,Upper secondary
+9829,30,Upper secondary
+9830,30,Upper secondary
+9831,30,Upper secondary
+9832,30,Upper secondary
+9833,30,Upper secondary
+9834,30,Upper secondary
+9835,30,Upper secondary
+9836,30,Upper secondary
+9837,30,Upper secondary
+9838,30,Upper secondary
+9839,30,Upper secondary
+9840,30,Upper secondary
+9841,30,Upper secondary
+9842,30,Upper secondary
+9843,30,Upper secondary
+9844,30,Upper secondary
+9845,30,Upper secondary
+9846,30,Upper secondary
+9847,30,Upper secondary
+9848,30,Upper secondary
+9849,30,Upper secondary
+9850,30,Upper secondary
+9851,30,Upper secondary
+9852,30,Upper secondary
+9853,30,Upper secondary
+9854,30,Upper secondary
+9855,30,Upper secondary
+9856,30,Upper secondary
+9857,30,Upper secondary
+9858,30,Upper secondary
+9859,30,Upper secondary
+9860,30,Upper secondary
+9861,30,Upper secondary
+9862,30,Upper secondary
+9863,30,Upper secondary
+9864,30,Upper secondary
+9865,30,Upper secondary
+9866,30,Upper secondary
+9867,30,Upper secondary
+9868,30,Upper secondary
+9869,30,Upper secondary
+9870,30,Upper secondary
+9871,30,Upper secondary
+9872,30,Upper secondary
+9873,30,Upper secondary
+9874,30,Upper secondary
+9875,30,Upper secondary
+9876,30,Upper secondary
+9877,30,Upper secondary
+9878,30,Upper secondary
+9879,30,Upper secondary
+9880,30,Upper secondary
+9881,30,Upper secondary
+9882,30,Upper secondary
+9883,30,Upper secondary
+9884,30,Upper secondary
+9886,30,Upper secondary
+9887,30,Upper secondary
+9888,30,Upper secondary
+9889,30,Upper secondary
+9909,30,Upper secondary
+9910,30,Upper secondary
+9911,30,Upper secondary
+9912,30,Upper secondary
+9913,30,Upper secondary
+9914,30,Upper secondary
+9915,30,Upper secondary
+9916,30,Upper secondary
+9917,30,Upper secondary
+9918,30,Upper secondary
+9919,30,Upper secondary
+9920,30,Upper secondary
+9933,30,Upper secondary
+9999,90,Not elsewhere classified

@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sanctions-mortality"
+version = "1.0.0"
+description = "Replication package for 'What Can We Learn About (Getting Around) Data Limitations in the US from Denmark? A Case Study of Mortality Risk and Criminal Justice System Involvement'."
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    { name = "Noa Hendel", email = "nhe@rff.dk" },
+]
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=2.1",
+    "numpy",
+    "matplotlib",
+    "pyarrow",
+    "scipy",
+    "statsmodels",
+    "lifelines",
+    "jinja2",
+]
+
+[project.optional-dependencies]
+notebooks = ["ipykernel>=6.0"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+sanction_mortality = ["lookups/*.csv"]

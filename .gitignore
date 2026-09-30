@@ -1,0 +1,15 @@
+# Machine-specific configuration
+local_paths.py
+
+# Generated data and outputs
+temp/
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+.ipynb_checkpoints/
