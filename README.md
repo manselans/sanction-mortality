@@ -1,6 +1,6 @@
 # Replication package: Sanctions and Mortality
 
-Code for *What Can We Learn About (Getting Around) Data Limitations in the US from Denmark? A Case Study of Mortality Risk and Criminal Justice System Involvement*.
+Code for *What Can We Learn from Denmark About (Getting Around) Data Limitations in the US? A Case Study of Mortality Risk and Criminal Justice System Involvement*.
 
 The analysis uses Danish administrative register data, available only on Statistics Denmark's research servers. The data are not included.
 
